@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    "323/2002_Item.1",
+    "323/2002_Item.4.7",
+    "323/2002_Item.5.1",
+    "323/2002_Item.5.2",
+    "323/2002_Item.6.4",
+    "323/2002_Item.6.8",
+    "323/2002_Item.7.1.2",
+    "323/2002_Item.7.4.1",
+    "323/2002_Item.7.6",
+    "323/2002_Item.7.8",
+    "715/2019_Art.1",
+    "715/2019_Art.4,III",
+    "715/2019_Art.7",
+    "715/2019_Art.12",
+    "715/2019_Art.25",
+    "715/2019_Art.29,V",
+    "715/2019_Art.38",
+    "715/2019_Art.45",
+    "715/2019_Art.80",
+    "715/2019_Art.83"
+  ],
+  "edges": [
+    {
+      "from": "323/2002_Item.1",
+      "to": "715/2019_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos definem o objetivo de estabelecer condições e regras para a avaliação da conformidade e certificação de produtos para telecomunicações [2, 3]."
+    },
+    {
+      "from": "323/2002_Item.4.7",
+      "to": "715/2019_Art.4,III",
+      "similarity": "100%",
+      "justification": "A definição de 'Sistema de Certificação' na norma antiga equivale semanticamente à definição de 'Avaliação da Conformidade' na norma nova [4, 5]."
+    },
+    {
+      "from": "323/2002_Item.5.1",
+      "to": "715/2019_Art.7",
+      "similarity": "100%",
+      "justification": "Tratam das atribuições da Anatel no processo, especificamente a competência para designar e gerir os Organismos de Certificação [4, 6]."
+    },
+    {
+      "from": "323/2002_Item.5.2",
+      "to": "715/2019_Art.12",
+      "similarity": "100%",
+      "justification": "Definem as obrigações e regras de atuação dos Organismos de Certificação Designados (OCD) na condução dos processos [4, 7]."
+    },
+    {
+      "from": "323/2002_Item.6.4",
+      "to": "715/2019_Art.38",
+      "similarity": "90%",
+      "justification": "Estabelecem os requisitos mínimos e as informações que devem constar no Certificado de Conformidade emitido pelo OCD [4, 8]."
+    },
+    {
+      "from": "323/2002_Item.6.8",
+      "to": "715/2019_Art.83",
+      "similarity": "95%",
+      "justification": "Versam sobre o uso abusivo ou indevido da marca/selo de conformidade e as condutas passíveis de sanção [9, 10]."
+    },
+    {
+      "from": "323/2002_Item.7.1.2",
+      "to": "715/2019_Art.25",
+      "similarity": "90%",
+      "justification": "Tratam dos procedimentos operacionais e etapas que devem compor os programas de avaliação da conformidade [9, 11]."
+    },
+    {
+      "from": "323/2002_Item.7.4.1",
+      "to": "715/2019_Art.29,V",
+      "similarity": "100%",
+      "justification": "Ambos preveem a avaliação do sistema de gestão fabril como parte do modelo de certificação técnica [12, 13]."
+    },
+    {
+      "from": "323/2002_Item.7.6",
+      "to": "715/2019_Art.45",
+      "similarity": "100%",
+      "justification": "Estabelecem a necessidade de procedimentos de manutenção da certificação para garantir a permanência das condições técnicas [14, 15]."
+    },
+    {
+      "from": "323/2002_Item.7.8",
+      "to": "715/2019_Art.80",
+      "similarity": "100%",
+      "justification": "Dispositivos idênticos quanto à observância e aplicação de Acordos de Reconhecimento Mútuo (ARM) [16, 17]."
+    }
+  ]
+}

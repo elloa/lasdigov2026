@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    "575/2011_Art.1",
+    "575/2011_Art.8",
+    "575/2011_Art.16",
+    "575/2011_Art.19",
+    "575/2011_Art.20",
+    "575/2011_Art.22",
+    "575/2011_Art.23",
+    "575/2011_Art.26",
+    "575/2011_Art.31",
+    "575/2011_Art.32",
+    "575/2011_Art.47",
+    "717/2019_Art.1",
+    "717/2019_Art.10,§2º",
+    "717/2019_Art.14",
+    "717/2019_Art.16",
+    "717/2019_Anexo_I_IND1",
+    "717/2019_Anexo_I_IND2",
+    "717/2019_Anexo_I_IND3",
+    "717/2019_Anexo_I_IND4",
+    "717/2019_Anexo_I_IND9",
+    "717/2019_Anexo_I_INF2"
+  ],
+  "edges": [
+    {
+      "from": "575/2011_Art.1",
+      "to": "717/2019_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos estabelecem o objetivo de disciplinar a gestão da qualidade, mas a norma de 2019 unifica o SMP a outros serviços como STFC, SCM e TV [2, 4]."
+    },
+    {
+      "from": "575/2011_Art.8",
+      "to": "717/2019_Art.10,§2º",
+      "similarity": "100%",
+      "justification": "Mantém o prazo para envio dos dados de qualidade à Agência ou entidade aferidora até o dia 10 do mês subsequente [6, 8]."
+    },
+    {
+      "from": "575/2011_Art.16",
+      "to": "717/2019_Anexo_I_IND1",
+      "similarity": "100%",
+      "justification": "O indicador de completamento de chamadas (SMP4) equivale ao indicador de Conexão de Chamadas na Rede de Acesso [7, 9]."
+    },
+    {
+      "from": "575/2011_Art.19",
+      "to": "717/2019_Anexo_I_IND2",
+      "similarity": "100%",
+      "justification": "Mapeamento direto do indicador de Taxa de Queda de Ligações (SMP7) para o indicador de Queda de Chamadas [7, 10]."
+    },
+    {
+      "from": "575/2011_Art.20",
+      "to": "717/2019_Anexo_I_IND3",
+      "similarity": "100%",
+      "justification": "O indicador de Taxa de Conexão de Dados (SMP8) foi absorvido pelo indicador de Conexão de Dados Medida na Rede de Acesso [7, 10]."
+    },
+    {
+      "from": "575/2011_Art.22",
+      "to": "717/2019_Anexo_I_IND4",
+      "similarity": "90%",
+      "justification": "A meta de Taxa de Transmissão Instantânea (SMP10) foi consolidada no indicador de Cumprimento da Velocidade de download e upload [7, 11]."
+    },
+    {
+      "from": "575/2011_Art.23",
+      "to": "717/2019_Anexo_I_IND4",
+      "similarity": "90%",
+      "justification": "A meta de Taxa de Transmissão Média (SMP11) também foi integrada ao indicador unificado de velocidade de dados [7, 12]."
+    },
+    {
+      "from": "575/2011_Art.26",
+      "to": "717/2019_Art.16",
+      "similarity": "100%",
+      "justification": "Transição da Entidade Aferidora da Qualidade (EAQ) para a Entidade de Suporte à Aferição da Qualidade (ESAQ) [13, 14]."
+    },
+    {
+      "from": "575/2011_Art.31",
+      "to": "717/2019_Anexo_I_INF2",
+      "similarity": "95%",
+      "justification": "O tempo de atendimento por telefonista (SMP12) evoluiu para o indicador informativo de Tempo Médio de Espera para Atendimento [7, 15]."
+    },
+    {
+      "from": "575/2011_Art.32",
+      "to": "717/2019_Anexo_I_IND9",
+      "similarity": "90%",
+      "justification": "O prazo de resposta a solicitações do usuário (SMP13) foi agrupado no indicador de Cumprimento de Prazo do grupo de relacionamento [7, 16]."
+    },
+    {
+      "from": "575/2011_Art.47",
+      "to": "717/2019_Art.14",
+      "similarity": "100%",
+      "justification": "Migração das funções do Grupo de Implantação (GIPAQ) para o novo Grupo Técnico da Qualidade (GTQUAL) [17, 18]."
+    }
+  ]
+}

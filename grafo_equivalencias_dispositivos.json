@@ -1,0 +1,2740 @@
+{
+    "nodes": [
+        {
+            "id": "190/1999_Art.8,III",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.8,III"
+        },
+        {
+            "id": "190/1999_Art.9,caput",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.9,caput"
+        },
+        {
+            "id": "190/1999_Art.18",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.18"
+        },
+        {
+            "id": "190/1999_Art.22",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.22"
+        },
+        {
+            "id": "190/1999_Art.23,II",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.23,II"
+        },
+        {
+            "id": "190/1999_Art.23,III",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.23,III"
+        },
+        {
+            "id": "190/1999_Art.25",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.25"
+        },
+        {
+            "id": "190/1999_Art.28",
+            "Resolução": "190/1999",
+            "dispositivo": "Art.28"
+        },
+        {
+            "id": "614/2013_Art.4,XVIII",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.4,XVIII"
+        },
+        {
+            "id": "614/2013_Art.7,caput",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.7,caput"
+        },
+        {
+            "id": "614/2013_Art.38",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.38"
+        },
+        {
+            "id": "614/2013_Art.51",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.51"
+        },
+        {
+            "id": "614/2013_Art.56,II",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.56,II"
+        },
+        {
+            "id": "614/2013_Art.56,VII",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.56,VII"
+        },
+        {
+            "id": "614/2013_Art.56,XIX",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.56,XIX"
+        },
+        {
+            "id": "614/2013_Art.68,caput",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.68,caput"
+        },
+        {
+            "id": "199/1999_Art.1",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "199/1999_Art.3",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.3"
+        },
+        {
+            "id": "199/1999_Art.4",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.4"
+        },
+        {
+            "id": "199/1999_Art.5",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.5"
+        },
+        {
+            "id": "199/1999_Art.10",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.10"
+        },
+        {
+            "id": "199/1999_Art.11",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "199/1999_Art.24",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.24"
+        },
+        {
+            "id": "199/1999_Art.27",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.27"
+        },
+        {
+            "id": "199/1999_Art.31",
+            "Resolução": "199/1999",
+            "dispositivo": "Art.31"
+        },
+        {
+            "id": "199/1999_Anexo_I",
+            "Resolução": "199/1999",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "199/1999_Anexo_II",
+            "Resolução": "199/1999",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "255/2001_Art.1",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "255/2001_Art.3",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.3"
+        },
+        {
+            "id": "255/2001_Art.4",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.4"
+        },
+        {
+            "id": "255/2001_Art.5",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.5"
+        },
+        {
+            "id": "255/2001_Art.10",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.10"
+        },
+        {
+            "id": "255/2001_Art.11",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "255/2001_Art.24",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.24"
+        },
+        {
+            "id": "255/2001_Art.27",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.27"
+        },
+        {
+            "id": "255/2001_Art.31",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.31"
+        },
+        {
+            "id": "255/2001_Anexo_I",
+            "Resolução": "255/2001",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "255/2001_Anexo_II",
+            "Resolução": "255/2001",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "242/2000_Art.1",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "242/2000_Art.2",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.2"
+        },
+        {
+            "id": "242/2000_Art.3,I",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,I"
+        },
+        {
+            "id": "242/2000_Art.3,II",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,II"
+        },
+        {
+            "id": "242/2000_Art.3,IV",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,IV"
+        },
+        {
+            "id": "242/2000_Art.3,VIII",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,VIII"
+        },
+        {
+            "id": "242/2000_Art.3,XV",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,XV"
+        },
+        {
+            "id": "242/2000_Art.11",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "242/2000_Art.12",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.12"
+        },
+        {
+            "id": "242/2000_Art.14",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.14"
+        },
+        {
+            "id": "242/2000_Art.21,I-V",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.21,I-V"
+        },
+        {
+            "id": "242/2000_Art.28",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.28"
+        },
+        {
+            "id": "242/2000_Art.39",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.39"
+        },
+        {
+            "id": "242/2000_Art.41",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.41"
+        },
+        {
+            "id": "242/2000_Art.49",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.49"
+        },
+        {
+            "id": "242/2000_Art.55,I(a)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,I(a)"
+        },
+        {
+            "id": "242/2000_Art.55,I(b)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,I(b)"
+        },
+        {
+            "id": "242/2000_Art.55,II(a)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,II(a)"
+        },
+        {
+            "id": "242/2000_Art.55,II(b)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,II(b)"
+        },
+        {
+            "id": "242/2000_Art.55,IV(b)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,IV(b)"
+        },
+        {
+            "id": "242/2000_Art.55,IV(c)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,IV(c)"
+        },
+        {
+            "id": "242/2000_Art.55,V(a)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,V(a)"
+        },
+        {
+            "id": "242/2000_Art.55,V(c)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,V(c)"
+        },
+        {
+            "id": "242/2000_Art.55,VI(a)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,VI(a)"
+        },
+        {
+            "id": "242/2000_Art.55,VII(a)",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.55,VII(a)"
+        },
+        {
+            "id": "242/2000_Art.74",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.74"
+        },
+        {
+            "id": "715/2019_Art.1",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "715/2019_Art.1,§2º",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.1,§2º"
+        },
+        {
+            "id": "715/2019_Art.3",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.3"
+        },
+        {
+            "id": "715/2019_Art.4,I",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,I"
+        },
+        {
+            "id": "715/2019_Art.4,III",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,III"
+        },
+        {
+            "id": "715/2019_Art.4,IV",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,IV"
+        },
+        {
+            "id": "715/2019_Art.4,XI",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,XI"
+        },
+        {
+            "id": "715/2019_Art.4,XIV",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,XIV"
+        },
+        {
+            "id": "715/2019_Art.5",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.5"
+        },
+        {
+            "id": "715/2019_Art.7",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.7"
+        },
+        {
+            "id": "715/2019_Art.20",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.20"
+        },
+        {
+            "id": "715/2019_Art.29,I-V",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.29,I-V"
+        },
+        {
+            "id": "715/2019_Art.52",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.52"
+        },
+        {
+            "id": "715/2019_Art.63",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.63"
+        },
+        {
+            "id": "715/2019_Art.73",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.73"
+        },
+        {
+            "id": "715/2019_Art.80",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.80"
+        },
+        {
+            "id": "715/2019_Art.83,I",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.83,I"
+        },
+        {
+            "id": "715/2019_Art.83,III",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.83,III"
+        },
+        {
+            "id": "715/2019_Art.83,IV",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.83,IV"
+        },
+        {
+            "id": "715/2019_Art.83,V",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.83,V"
+        },
+        {
+            "id": "255/2001_Art.1",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "255/2001_Art.4",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.4"
+        },
+        {
+            "id": "255/2001_Art.5",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.5"
+        },
+        {
+            "id": "255/2001_Art.11",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "255/2001_Art.24",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.24"
+        },
+        {
+            "id": "255/2001_Art.27",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.27"
+        },
+        {
+            "id": "255/2001_Art.31",
+            "Resolução": "255/2001",
+            "dispositivo": "Art.31"
+        },
+        {
+            "id": "729/2020_Art.1",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "729/2020_Art.2",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.2"
+        },
+        {
+            "id": "729/2020_Art.4,§1º",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.4,§1º"
+        },
+        {
+            "id": "729/2020_Art.10",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.10"
+        },
+        {
+            "id": "729/2020_Art.26",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.26"
+        },
+        {
+            "id": "729/2020_Art.28",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.28"
+        },
+        {
+            "id": "729/2020_Art.32,§1º",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.32,§1º"
+        },
+        {
+            "id": "729/2020_Art.32,§2º",
+            "Resolução": "729/2020",
+            "dispositivo": "Art.32,§2º"
+        },
+        {
+            "id": "632/2014_Art.3,I",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,I"
+        },
+        {
+            "id": "632/2014_Art.3,II",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,II"
+        },
+        {
+            "id": "632/2014_Art.3,III",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,III"
+        },
+        {
+            "id": "632/2014_Art.3,IV",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,IV"
+        },
+        {
+            "id": "632/2014_Art.3,V",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,V"
+        },
+        {
+            "id": "632/2014_Art.3,XV",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,XV"
+        },
+        {
+            "id": "632/2014_Art.4,I",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.4,I"
+        },
+        {
+            "id": "632/2014_Art.4,VII",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.4,VII"
+        },
+        {
+            "id": "632/2014_Art.7,caput",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.7,caput"
+        },
+        {
+            "id": "632/2014_Art.13,caput",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.13,caput"
+        },
+        {
+            "id": "632/2014_Art.104-A,§7º",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.104-A,§7º"
+        },
+        {
+            "id": "765/2023_Art.4,I",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,I"
+        },
+        {
+            "id": "765/2023_Art.4,II",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,II"
+        },
+        {
+            "id": "765/2023_Art.4,III",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,III"
+        },
+        {
+            "id": "765/2023_Art.4,V",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,V"
+        },
+        {
+            "id": "765/2023_Art.4,VII",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,VII"
+        },
+        {
+            "id": "765/2023_Art.4,XVI",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,XVI"
+        },
+        {
+            "id": "765/2023_Art.6,I",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.6,I"
+        },
+        {
+            "id": "765/2023_Art.6,VII",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.6,VII"
+        },
+        {
+            "id": "765/2023_Art.9,caput",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.9,caput"
+        },
+        {
+            "id": "765/2023_Art.82,caput",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.82,caput"
+        },
+        {
+            "id": "765/2023_Art.87,§7º",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.87,§7º"
+        },
+        {
+            "id": "317/2002_Anexo_Art.1",
+            "Resolução": "317/2002",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "317/2002_Art.2,V",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.2,V"
+        },
+        {
+            "id": "317/2002_Art.2,VI",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.2,VI"
+        },
+        {
+            "id": "317/2002_Art.2,XIV",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.2,XIV"
+        },
+        {
+            "id": "317/2002_Art.6",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.6"
+        },
+        {
+            "id": "317/2002_Art.7",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.7"
+        },
+        {
+            "id": "317/2002_Art.8",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.8"
+        },
+        {
+            "id": "317/2002_Art.10",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.10"
+        },
+        {
+            "id": "317/2002_Art.11",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "317/2002_Art.13",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.13"
+        },
+        {
+            "id": "317/2002_Art.18",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.18"
+        },
+        {
+            "id": "317/2002_Art.19",
+            "Resolução": "317/2002",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "575/2011_Anexo_I_Art.1",
+            "Resolução": "575/2011",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "575/2011_Art.3,V",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.3,V"
+        },
+        {
+            "id": "575/2011_Art.3,VI",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.3,VI"
+        },
+        {
+            "id": "575/2011_Art.3,XX",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.3,XX"
+        },
+        {
+            "id": "575/2011_Art.15",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.15"
+        },
+        {
+            "id": "575/2011_Art.16",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.16"
+        },
+        {
+            "id": "575/2011_Art.19",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "575/2011_Art.31",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.31"
+        },
+        {
+            "id": "575/2011_Art.32",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.32"
+        },
+        {
+            "id": "575/2011_Art.33",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.33"
+        },
+        {
+            "id": "575/2011_Art.53",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.53"
+        },
+        {
+            "id": "575/2011_Art.54",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.54"
+        },
+        {
+            "id": "323/2002_Item.1",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.1"
+        },
+        {
+            "id": "323/2002_Item.4.7",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.4.7"
+        },
+        {
+            "id": "323/2002_Item.5.1",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.5.1"
+        },
+        {
+            "id": "323/2002_Item.5.2",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.5.2"
+        },
+        {
+            "id": "323/2002_Item.6.4",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.6.4"
+        },
+        {
+            "id": "323/2002_Item.6.8",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.6.8"
+        },
+        {
+            "id": "323/2002_Item.7.1.2",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.7.1.2"
+        },
+        {
+            "id": "323/2002_Item.7.4.1",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.7.4.1"
+        },
+        {
+            "id": "323/2002_Item.7.6",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.7.6"
+        },
+        {
+            "id": "323/2002_Item.7.8",
+            "Resolução": "323/2002",
+            "dispositivo": "Item.7.8"
+        },
+        {
+            "id": "715/2019_Art.1",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "715/2019_Art.4,III",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.4,III"
+        },
+        {
+            "id": "715/2019_Art.7",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.7"
+        },
+        {
+            "id": "715/2019_Art.12",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.12"
+        },
+        {
+            "id": "715/2019_Art.25",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.25"
+        },
+        {
+            "id": "715/2019_Art.29,V",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.29,V"
+        },
+        {
+            "id": "715/2019_Art.38",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.38"
+        },
+        {
+            "id": "715/2019_Art.45",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.45"
+        },
+        {
+            "id": "715/2019_Art.80",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.80"
+        },
+        {
+            "id": "715/2019_Art.83",
+            "Resolução": "715/2019",
+            "dispositivo": "Art.83"
+        },
+        {
+            "id": "335/2003_Art.1",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "335/2003_Art.3,§2º",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.3,§2º"
+        },
+        {
+            "id": "335/2003_Art.7",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.7"
+        },
+        {
+            "id": "335/2003_Art.9,II",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.9,II"
+        },
+        {
+            "id": "335/2003_Art.10",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.10"
+        },
+        {
+            "id": "335/2003_Art.12",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.12"
+        },
+        {
+            "id": "335/2003_Art.16",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.16"
+        },
+        {
+            "id": "335/2003_Art.19",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "335/2003_Art.26",
+            "Resolução": "335/2003",
+            "dispositivo": "Art.26"
+        },
+        {
+            "id": "335/2003_Anexo_1",
+            "Resolução": "335/2003",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "575/2011_Art.1",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "575/2011_Art.3,XVI",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.3,XVI"
+        },
+        {
+            "id": "575/2011_Art.8",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.8"
+        },
+        {
+            "id": "575/2011_Art.9",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.9"
+        },
+        {
+            "id": "575/2011_Art.13",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.13"
+        },
+        {
+            "id": "575/2011_Art.15",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.15"
+        },
+        {
+            "id": "575/2011_Art.19",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "575/2011_Art.33",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.33"
+        },
+        {
+            "id": "575/2011_Art.53",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.53"
+        },
+        {
+            "id": "575/2011_Anexo_III",
+            "Resolução": "575/2011",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "411/2005_Art.1",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "411/2005_Art.8",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.8"
+        },
+        {
+            "id": "411/2005_Art.9",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.9"
+        },
+        {
+            "id": "411/2005_Art.14",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.14"
+        },
+        {
+            "id": "411/2005_Art.16",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.16"
+        },
+        {
+            "id": "411/2005_Art.17",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.17"
+        },
+        {
+            "id": "411/2005_Art.18",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.18"
+        },
+        {
+            "id": "411/2005_Art.20",
+            "Resolução": "411/2005",
+            "dispositivo": "Art.20"
+        },
+        {
+            "id": "717/2019_Art.1",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "717/2019_Art.10,§2º",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.10,§2º"
+        },
+        {
+            "id": "717/2019_Art.22",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.22"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND8",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND9",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_INF2",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tabela_3_IR",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "426/2005_Art.1",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "426/2005_Art.2",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.2"
+        },
+        {
+            "id": "426/2005_Art.3,XXIII",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.3,XXIII"
+        },
+        {
+            "id": "426/2005_Art.6",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.6"
+        },
+        {
+            "id": "426/2005_Art.10,I",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.10,I"
+        },
+        {
+            "id": "426/2005_Art.10,IX",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.10,IX"
+        },
+        {
+            "id": "426/2005_Art.119",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.119"
+        },
+        {
+            "id": "777/2025_Art.1",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "777/2025_Art.11",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.11"
+        },
+        {
+            "id": "777/2025_Art.13",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.13"
+        },
+        {
+            "id": "777/2025_Art.39",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.39"
+        },
+        {
+            "id": "777/2025_Art.41,I",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.41,I"
+        },
+        {
+            "id": "777/2025_Art.62",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.62"
+        },
+        {
+            "id": "47/1998_Item.1.1",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.1.1"
+        },
+        {
+            "id": "47/1998_Item.3",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.3"
+        },
+        {
+            "id": "47/1998_Item.4.1",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.4.1"
+        },
+        {
+            "id": "47/1998_Item.4.4",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.4.4"
+        },
+        {
+            "id": "47/1998_Item.4.5",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.4.5"
+        },
+        {
+            "id": "47/1998_Item.4.6",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.4.6"
+        },
+        {
+            "id": "47/1998_Item.5.1.3",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.5.1.3"
+        },
+        {
+            "id": "47/1998_Item.5.1.8",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.5.1.8"
+        },
+        {
+            "id": "47/1998_Item.6.2",
+            "Resolução": "47/1998",
+            "dispositivo": "Item.6.2"
+        },
+        {
+            "id": "242/2000_Art.1",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "242/2000_Art.3,IV",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,IV"
+        },
+        {
+            "id": "242/2000_Art.3,XVIII",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,XVIII"
+        },
+        {
+            "id": "242/2000_Art.3,XIX",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,XIX"
+        },
+        {
+            "id": "242/2000_Art.3,XX",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.3,XX"
+        },
+        {
+            "id": "242/2000_Art.4",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.4"
+        },
+        {
+            "id": "242/2000_Art.12,§1º",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.12,§1º"
+        },
+        {
+            "id": "242/2000_Art.39",
+            "Resolução": "242/2000",
+            "dispositivo": "Art.39"
+        },
+        {
+            "id": "242/2000_Anexo_II",
+            "Resolução": "242/2000",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "574/2011_Art.1",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "574/2011_Art.17",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.17"
+        },
+        {
+            "id": "574/2011_Art.18",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.18"
+        },
+        {
+            "id": "574/2011_Art.19",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "574/2011_Art.20",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.20"
+        },
+        {
+            "id": "574/2011_Art.21",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.21"
+        },
+        {
+            "id": "574/2011_Art.23",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.23"
+        },
+        {
+            "id": "574/2011_Art.33",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.33"
+        },
+        {
+            "id": "574/2011_Art.39",
+            "Resolução": "574/2011",
+            "dispositivo": "Art.39"
+        },
+        {
+            "id": "717/2019_Anexo_I_Art.1",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Art.14",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Art.16",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND4",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND5",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND6",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND7",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND8",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_Tab1_IND9",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "575/2011_Art.1",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "575/2011_Art.8",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.8"
+        },
+        {
+            "id": "575/2011_Art.16",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.16"
+        },
+        {
+            "id": "575/2011_Art.19",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.19"
+        },
+        {
+            "id": "575/2011_Art.20",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.20"
+        },
+        {
+            "id": "575/2011_Art.22",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.22"
+        },
+        {
+            "id": "575/2011_Art.23",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.23"
+        },
+        {
+            "id": "575/2011_Art.26",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.26"
+        },
+        {
+            "id": "575/2011_Art.31",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.31"
+        },
+        {
+            "id": "575/2011_Art.32",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.32"
+        },
+        {
+            "id": "575/2011_Art.47",
+            "Resolução": "575/2011",
+            "dispositivo": "Art.47"
+        },
+        {
+            "id": "717/2019_Art.1",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "717/2019_Art.10,§2º",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.10,§2º"
+        },
+        {
+            "id": "717/2019_Art.14",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.14"
+        },
+        {
+            "id": "717/2019_Art.16",
+            "Resolução": "717/2019",
+            "dispositivo": "Art.16"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND1",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND2",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND3",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND4",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_IND9",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "717/2019_Anexo_I_INF2",
+            "Resolução": "717/2019",
+            "dispositivo": "Anexo"
+        },
+        {
+            "id": "614/2013_Art.1",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "614/2013_Art.3",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.3"
+        },
+        {
+            "id": "614/2013_Art.4,XVIII",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.4,XVIII"
+        },
+        {
+            "id": "614/2013_Art.6",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.6"
+        },
+        {
+            "id": "614/2013_Art.7",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.7"
+        },
+        {
+            "id": "614/2013_Art.9",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.9"
+        },
+        {
+            "id": "614/2013_Art.26",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.26"
+        },
+        {
+            "id": "614/2013_Art.38",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.38"
+        },
+        {
+            "id": "614/2013_Art.41,II",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.41,II"
+        },
+        {
+            "id": "614/2013_Art.42",
+            "Resolução": "614/2013",
+            "dispositivo": "Art.42"
+        },
+        {
+            "id": "777/2025_Art.1",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "777/2025_Art.6,§1º",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.6,§1º"
+        },
+        {
+            "id": "777/2025_Art.8,IV",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.8,IV"
+        },
+        {
+            "id": "777/2025_Art.17",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.17"
+        },
+        {
+            "id": "777/2025_Art.39",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.39"
+        },
+        {
+            "id": "777/2025_Art.41,I",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.41,I"
+        },
+        {
+            "id": "777/2025_Art.44",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.44"
+        },
+        {
+            "id": "777/2025_Art.46",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.46"
+        },
+        {
+            "id": "777/2025_Art.59",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.59"
+        },
+        {
+            "id": "777/2025_Art.118,II",
+            "Resolução": "777/2025",
+            "dispositivo": "Art.118,II"
+        },
+        {
+            "id": "632/2014_Art.3,I",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,I"
+        },
+        {
+            "id": "632/2014_Art.3,II",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,II"
+        },
+        {
+            "id": "632/2014_Art.3,III",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,III"
+        },
+        {
+            "id": "632/2014_Art.3,IV",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,IV"
+        },
+        {
+            "id": "632/2014_Art.3,V",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,V"
+        },
+        {
+            "id": "632/2014_Art.3,XV",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.3,XV"
+        },
+        {
+            "id": "632/2014_Art.4,I",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.4,I"
+        },
+        {
+            "id": "632/2014_Art.4,VII",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.4,VII"
+        },
+        {
+            "id": "632/2014_Art.7,caput",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.7,caput"
+        },
+        {
+            "id": "632/2014_Art.13,caput",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.13,caput"
+        },
+        {
+            "id": "632/2014_Art.104-A,§7º",
+            "Resolução": "632/2014",
+            "dispositivo": "Art.104-A,§7º"
+        },
+        {
+            "id": "765/2023_Art.4,I",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,I"
+        },
+        {
+            "id": "765/2023_Art.4,II",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,II"
+        },
+        {
+            "id": "765/2023_Art.4,III",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,III"
+        },
+        {
+            "id": "765/2023_Art.4,V",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,V"
+        },
+        {
+            "id": "765/2023_Art.4,VII",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,VII"
+        },
+        {
+            "id": "765/2023_Art.4,XVI",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.4,XVI"
+        },
+        {
+            "id": "765/2023_Art.6,I",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.6,I"
+        },
+        {
+            "id": "765/2023_Art.6,VII",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.6,VII"
+        },
+        {
+            "id": "765/2023_Art.9,caput",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.9,caput"
+        },
+        {
+            "id": "765/2023_Art.82,caput",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.82,caput"
+        },
+        {
+            "id": "765/2023_Art.87,§7º",
+            "Resolução": "765/2023",
+            "dispositivo": "Art.87,§7º"
+        },
+        {
+            "id": "85/1998_Art.1",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "85/1998_Art.2",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.2"
+        },
+        {
+            "id": "85/1998_Art.3,II",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.3,II"
+        },
+        {
+            "id": "85/1998_Art.3,III",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.3,III"
+        },
+        {
+            "id": "85/1998_Art.3,XX",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.3,XX"
+        },
+        {
+            "id": "85/1998_Art.6",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.6"
+        },
+        {
+            "id": "85/1998_Art.8",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.8"
+        },
+        {
+            "id": "85/1998_Art.11,I",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.11,I"
+        },
+        {
+            "id": "85/1998_Art.11,VIII",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.11,VIII"
+        },
+        {
+            "id": "85/1998_Art.12,I",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.12,I"
+        },
+        {
+            "id": "85/1998_Art.12,II",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.12,II"
+        },
+        {
+            "id": "85/1998_Art.17",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.17"
+        },
+        {
+            "id": "85/1998_Art.29",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.29"
+        },
+        {
+            "id": "85/1998_Art.53",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.53"
+        },
+        {
+            "id": "85/1998_Art.54",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.54"
+        },
+        {
+            "id": "85/1998_Art.68",
+            "Resolução": "85/1998",
+            "dispositivo": "Art.68"
+        },
+        {
+            "id": "426/2005_Art.1",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.1"
+        },
+        {
+            "id": "426/2005_Art.2",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.2"
+        },
+        {
+            "id": "426/2005_Art.3,III",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.3,III"
+        },
+        {
+            "id": "426/2005_Art.3,IV",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.3,IV"
+        },
+        {
+            "id": "426/2005_Art.3,XXIII",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.3,XXIII"
+        },
+        {
+            "id": "426/2005_Art.4",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.4"
+        },
+        {
+            "id": "426/2005_Art.6",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.6"
+        },
+        {
+            "id": "426/2005_Art.10,I",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.10,I"
+        },
+        {
+            "id": "426/2005_Art.10,IX",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.10,IX"
+        },
+        {
+            "id": "426/2005_Art.11,I",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.11,I"
+        },
+        {
+            "id": "426/2005_Art.11,II",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.11,II"
+        },
+        {
+            "id": "426/2005_Art.23",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.23"
+        },
+        {
+            "id": "426/2005_Art.47",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.47"
+        },
+        {
+            "id": "426/2005_Art.80",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.80"
+        },
+        {
+            "id": "426/2005_Art.82",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.82"
+        },
+        {
+            "id": "426/2005_Art.101",
+            "Resolução": "426/2005",
+            "dispositivo": "Art.101"
+        }
+    ],
+    "edges": [
+        {
+            "from": "190/1999_Art.8,III",
+            "to": "614/2013_Art.4,XVIII",
+            "similarity": "100%",
+            "justification": "Definição idêntica de Serviço de Valor Adicionado (SVA) como atividade que acrescenta novas utilidades a um serviço de telecomunicações de suporte [1, 2]."
+        },
+        {
+            "from": "190/1999_Art.9,caput",
+            "to": "614/2013_Art.7,caput",
+            "similarity": "100%",
+            "justification": "Assegura aos provedores de SVA o direito ao uso das redes de suporte de forma não discriminatória e a preços justos e razoáveis [2, 3]."
+        },
+        {
+            "from": "190/1999_Art.18",
+            "to": "614/2013_Art.38",
+            "similarity": "100%",
+            "justification": "Estabelece a obrigatoriedade de prestação do serviço em condições não discriminatórias a todos os interessados na área de prestação [4, 5]."
+        },
+        {
+            "from": "190/1999_Art.22",
+            "to": "614/2013_Art.56,II",
+            "similarity": "100%",
+            "justification": "Garante ao assinante a liberdade de escolha da prestadora ou do provedor de serviço de sua preferência [4, 6]."
+        },
+        {
+            "from": "190/1999_Art.23,II",
+            "to": "614/2013_Art.56,VII",
+            "similarity": "100%",
+            "justification": "Direito do assinante de rescindir o contrato ou cancelar o serviço a qualquer tempo e sem ônus, ressalvadas as multas de fidelização [4, 6]."
+        },
+        {
+            "from": "190/1999_Art.23,III",
+            "to": "614/2013_Art.56,XIX",
+            "similarity": "100%",
+            "justification": "Direito do assinante ao recebimento de documento de cobrança com a devida discriminação dos valores cobrados [4, 7]."
+        },
+        {
+            "from": "190/1999_Art.25",
+            "to": "614/2013_Art.68,caput",
+            "similarity": "90%",
+            "justification": "Define que os preços de uso de rede e serviços são livres, devendo pautar-se pela justiça e equanimidade [4, 8]."
+        },
+        {
+            "from": "190/1999_Art.28",
+            "to": "614/2013_Art.51",
+            "similarity": "95%",
+            "justification": "Previsão de intervenção da Anatel diante de situações que prejudiquem a competição ou configurem abuso de poder econômico [4, 6]."
+        },
+        {
+            "from": "199/1999_Art.1",
+            "to": "255/2001_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos os artigos definem o objetivo idêntico de disciplinar a arrecadação de receitas do Fundo de Fiscalização das Telecomunicações - Fistel [1, 2]."
+        },
+        {
+            "from": "199/1999_Art.3",
+            "to": "255/2001_Art.3",
+            "similarity": "95%",
+            "justification": "Mantêm o glossário de definições técnicas (como TFF, TFI e Licença), embora a Resolução 255 tenha sofrido atualizações posteriores em algumas definições por normas subsequentes [3, 4]."
+        },
+        {
+            "from": "199/1999_Art.4",
+            "to": "255/2001_Art.4",
+            "similarity": "100%",
+            "justification": "Dispositivo idêntico estabelecendo que as taxas do Fistel são constituídas pela TFI (Instalação) e TFF (Funcionamento) [5, 6]."
+        },
+        {
+            "from": "199/1999_Art.5",
+            "to": "255/2001_Art.5",
+            "similarity": "100%",
+            "justification": "Ambos definem que a TFI é devida no momento da emissão do certificado de licença para o funcionamento das estações [5, 6]."
+        },
+        {
+            "from": "199/1999_Art.10",
+            "to": "255/2001_Art.10",
+            "similarity": "100%",
+            "justification": "Regra idêntica estabelecendo que o valor da TFF corresponde a 50% dos valores fixados para a TFI [6, 7]."
+        },
+        {
+            "from": "199/1999_Art.11",
+            "to": "255/2001_Art.11",
+            "similarity": "100%",
+            "justification": "Mantém o prazo de pagamento anual da TFF até o dia 31 de março de cada exercício [6, 7]."
+        },
+        {
+            "from": "199/1999_Art.24",
+            "to": "255/2001_Art.24",
+            "similarity": "100%",
+            "justification": "Padronização das regras de cobrança de multa (0,33% ao dia) e juros de mora (SELIC) para débitos em atraso [8, 9]."
+        },
+        {
+            "from": "199/1999_Art.27",
+            "to": "255/2001_Art.27",
+            "similarity": "100%",
+            "justification": "Estabelecem que a arrecadação deve ocorrer exclusivamente pela rede bancária mediante documento próprio da Anatel [9, 10]."
+        },
+        {
+            "from": "199/1999_Art.31",
+            "to": "255/2001_Art.31",
+            "similarity": "100%",
+            "justification": "Lista idêntica de isenções das taxas do Fistel para órgãos como Forças Armadas, Polícia Federal e a própria Anatel [10, 11]."
+        },
+        {
+            "from": "199/1999_Anexo_I",
+            "to": "255/2001_Anexo_I",
+            "similarity": "100%",
+            "justification": "O modelo visual e os campos do Documento de Arrecadação de Receitas do Fistel permanecem rigorosamente os mesmos [12, 13]."
+        },
+        {
+            "from": "199/1999_Anexo_II",
+            "to": "255/2001_Anexo_II",
+            "similarity": "100%",
+            "justification": "A tabela de valores da TFI por estação para os diversos serviços de telecomunicações é idêntica em ambas as normas [14, 15]."
+        },
+        {
+            "from": "242/2000_Art.1",
+            "to": "715/2019_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos estabelecem as regras e procedimentos gerais relativos à avaliação da conformidade e à homologação de produtos [1, 2]."
+        },
+        {
+            "from": "242/2000_Art.2",
+            "to": "715/2019_Art.3",
+            "similarity": "100%",
+            "justification": "Preservam os mesmos princípios fundamentais: segurança do usuário, proteção ao meio ambiente, isonomia e confidencialidade [1, 2]."
+        },
+        {
+            "from": "242/2000_Art.3,I",
+            "to": "715/2019_Art.4,I",
+            "similarity": "100%",
+            "justification": "Definição idêntica de Acordo de Reconhecimento Mútuo (ARM) focado na aceitação mútua de certificados [1, 3]."
+        },
+        {
+            "from": "242/2000_Art.3,II",
+            "to": "715/2019_Art.4,III",
+            "similarity": "100%",
+            "justification": "Definição de Avaliação da Conformidade como conjunto de procedimentos para verificar o atendimento a requisitos [1, 3]."
+        },
+        {
+            "from": "242/2000_Art.3,IV",
+            "to": "715/2019_Art.4,IV",
+            "similarity": "100%",
+            "justification": "Mantêm a definição de Certificação como a modalidade de avaliação que resulta na expedição de documento de conformidade [3, 4]."
+        },
+        {
+            "from": "242/2000_Art.3,VIII",
+            "to": "715/2019_Art.4,XI",
+            "similarity": "100%",
+            "justification": "Define Homologação como o ato privativo da Anatel para o reconhecimento dos certificados de conformidade [3, 4]."
+        },
+        {
+            "from": "242/2000_Art.3,XV",
+            "to": "715/2019_Art.4,XIV",
+            "similarity": "100%",
+            "justification": "Mantêm a definição de Organismo de Certificação Designado (OCD) como agente com capacidade técnica para conduzir os processos [3, 4]."
+        },
+        {
+            "from": "242/2000_Art.11",
+            "to": "715/2019_Art.5",
+            "similarity": "95%",
+            "justification": "Listam os agentes do processo (Anatel, OCD, Laboratórios), com a nova norma incluindo formalmente os Requerentes [5, 6]."
+        },
+        {
+            "from": "242/2000_Art.12",
+            "to": "715/2019_Art.80",
+            "similarity": "100%",
+            "justification": "Ambos autorizam a Anatel a firmar Acordos de Reconhecimento Mútuo (ARM) em matéria de avaliação da conformidade [5, 7]."
+        },
+        {
+            "from": "242/2000_Art.14",
+            "to": "715/2019_Art.7",
+            "similarity": "100%",
+            "justification": "Competência da Anatel para designar Organismos de Certificação (OCDs) tecnicamente qualificados [5, 6]."
+        },
+        {
+            "from": "242/2000_Art.21,I-V",
+            "to": "715/2019_Art.29,I-V",
+            "similarity": "100%",
+            "justification": "Preservam os cinco principais modelos de avaliação da conformidade, desde Declaração até Gestão Fabril [8, 9]."
+        },
+        {
+            "from": "242/2000_Art.28",
+            "to": "715/2019_Art.20",
+            "similarity": "100%",
+            "justification": "Definem as mesmas partes legítimas para requerer a homologação: fabricantes, fornecedores e usuários para uso próprio [10, 11]."
+        },
+        {
+            "from": "242/2000_Art.39",
+            "to": "715/2019_Art.63",
+            "similarity": "100%",
+            "justification": "Obrigatoriedade de que os produtos homologados contenham a identificação da homologação (Selo Anatel) [12, 13]."
+        },
+        {
+            "from": "242/2000_Art.41",
+            "to": "715/2019_Art.52",
+            "similarity": "100%",
+            "justification": "Hipóteses em que o OCD pode suspender a validade do certificado de conformidade (não adaptação ou quebra contratual) [14, 15]."
+        },
+        {
+            "from": "242/2000_Art.49",
+            "to": "715/2019_Art.73",
+            "similarity": "100%",
+            "justification": "Hipóteses de revogação da homologação pela Anatel, como fraude, falsidade documental ou descontinuidades técnicas [16, 17]."
+        },
+        {
+            "from": "242/2000_Art.55,I(a)",
+            "to": "715/2019_Art.83,I",
+            "similarity": "100%",
+            "justification": "Pune o uso ou emprego de produtos não homologados [18, 19]."
+        },
+        {
+            "from": "242/2000_Art.55,VI(a)",
+            "to": "715/2019_Art.83,III",
+            "similarity": "100%",
+            "justification": "Caracteriza como infração a prática de fraude no processo de avaliação da conformidade e homologação [19, 20]."
+        },
+        {
+            "from": "242/2000_Art.74",
+            "to": "715/2019_Art.1,§2º",
+            "similarity": "100%",
+            "justification": "Dispensa de avaliação e homologação para produtos militares de uso exclusivo das Forças Armadas [2, 21]."
+        },
+        {
+            "from": "255/2001_Art.1",
+            "to": "729/2020_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos definem o objetivo de disciplinar a arrecadação de tributos, embora a norma de 2020 seja mais ampla ao incluir FUST e CFRP além do FISTEL [1, 2]."
+        },
+        {
+            "from": "255/2001_Art.4",
+            "to": "729/2020_Art.2",
+            "similarity": "100%",
+            "justification": "Confirmam a aplicação das regras às Taxas de Fiscalização de Instalação (TFI) e de Funcionamento (TFF) [2, 3]."
+        },
+        {
+            "from": "255/2001_Art.5",
+            "to": "729/2020_Art.4,§1º",
+            "similarity": "100%",
+            "justification": "Estabelecem que o fato gerador ou a obrigatoriedade do pagamento da TFI ocorre no momento da emissão da Licença para Funcionamento [3, 4]."
+        },
+        {
+            "from": "255/2001_Art.11",
+            "to": "729/2020_Art.10",
+            "similarity": "100%",
+            "justification": "Mantêm o prazo final de pagamento anual da Taxa de Fiscalização de Funcionamento (TFF) até o dia 31 de março [3, 4]."
+        },
+        {
+            "from": "255/2001_Art.24,I",
+            "to": "729/2020_Art.32,§2º",
+            "similarity": "100%",
+            "justification": "Preservam a regra de multa moratória de 0,33% por dia de atraso, limitada ao teto de 20% [5, 6]."
+        },
+        {
+            "from": "255/2001_Art.24,II",
+            "to": "729/2020_Art.32,§1º",
+            "similarity": "100%",
+            "justification": "Mantêm a aplicação de juros de mora baseados na taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC) [5, 7]."
+        },
+        {
+            "from": "255/2001_Art.27",
+            "to": "729/2020_Art.26",
+            "similarity": "95%",
+            "justification": "Determinam que a arrecadação deve ser feita via rede bancária; a norma nova especifica o uso da Guia de Recolhimento da União (GRU) [5, 8]."
+        },
+        {
+            "from": "255/2001_Art.31",
+            "to": "729/2020_Art.28",
+            "similarity": "100%",
+            "justification": "Reiteram a lista de órgãos isentos das taxas, como a própria Anatel, Forças Armadas e Polícia Federal [8, 9]."
+        },
+        {
+            "from": "632/2014_Art.3,I",
+            "to": "765/2023_Art.4,I",
+            "similarity": "100%",
+            "justification": "Mantém o direito fundamental ao acesso e fruição dos serviços dentro dos padrões de qualidade e regularidade previstos."
+        },
+        {
+            "from": "632/2014_Art.3,II",
+            "to": "765/2023_Art.4,II",
+            "similarity": "100%",
+            "justification": "Preserva a liberdade de escolha da prestadora e do plano de serviço pelo consumidor."
+        },
+        {
+            "from": "632/2014_Art.3,III",
+            "to": "765/2023_Art.4,III",
+            "similarity": "100%",
+            "justification": "Ambos asseguram o tratamento não discriminatório quanto às condições de acesso e fruição do serviço [1, 2]."
+        },
+        {
+            "from": "632/2014_Art.3,IV",
+            "to": "765/2023_Art.4,V",
+            "similarity": "100%",
+            "justification": "Garante o direito ao conhecimento prévio e à informação adequada sobre as condições de contratação e preços."
+        },
+        {
+            "from": "632/2014_Art.3,V",
+            "to": "765/2023_Art.4,VII",
+            "similarity": "100%",
+            "justification": "Mantém a proteção à inviolabilidade e ao segredo da comunicação do consumidor."
+        },
+        {
+            "from": "632/2014_Art.3,XV",
+            "to": "765/2023_Art.4,XVI",
+            "similarity": "100%",
+            "justification": "Reitera o direito do consumidor à rescisão do contrato a qualquer tempo e sem ônus, ressalvadas as multas de fidelização."
+        },
+        {
+            "from": "632/2014_Art.4,I",
+            "to": "765/2023_Art.6,I",
+            "similarity": "100%",
+            "justification": "Mantém o dever do consumidor de utilizar adequadamente os serviços, equipamentos e redes de telecomunicações [3, 4]."
+        },
+        {
+            "from": "632/2014_Art.4,VII",
+            "to": "765/2023_Art.6,VII",
+            "similarity": "100%",
+            "justification": "Conserva o dever de comunicar imediatamente à prestadora casos de roubo, extravio ou alteração de dados cadastrais [5, 6]."
+        },
+        {
+            "from": "632/2014_Art.7,caput",
+            "to": "765/2023_Art.9,caput",
+            "similarity": "100%",
+            "justification": "Obrigatoriedade de fornecimento do número de protocolo ao consumidor logo no início de qualquer interação de atendimento [5, 6]."
+        },
+        {
+            "from": "632/2014_Art.13,caput",
+            "to": "765/2023_Art.82,caput",
+            "similarity": "100%",
+            "justification": "Estabelece que o pedido de rescisão do contrato independe do adimplemento contratual por parte do consumidor [7, 8]."
+        },
+        {
+            "from": "632/2014_Art.104-A,§7º",
+            "to": "765/2023_Art.87,§7º",
+            "similarity": "100%",
+            "justification": "Mantém o prazo de 10 dias corridos para que a Ouvidoria apresente resposta às demandas dos consumidores [9, 10]."
+        },
+        {
+            "from": "317/2002_Anexo_Art.1",
+            "to": "575/2011_Anexo_I_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos estabelecem as metas de qualidade para o Serviço Móvel Pessoal (SMP), embora a norma de 2011 amplie os critérios para obtenção de dados e acompanhamento [2, 3]."
+        },
+        {
+            "from": "317/2002_Art.2,V",
+            "to": "575/2011_Art.3,V",
+            "similarity": "100%",
+            "justification": "Definição idêntica de 'Chamada Estabelecida' como ligação efetuada entre a Estação Móvel e outra estação [3, 4]."
+        },
+        {
+            "from": "317/2002_Art.2,VI",
+            "to": "575/2011_Art.3,VI",
+            "similarity": "100%",
+            "justification": "Definição idêntica de 'Chamada Completada' como chamada estabelecida onde houve atendimento e comunicação [3, 4]."
+        },
+        {
+            "from": "317/2002_Art.2,XIV",
+            "to": "575/2011_Art.3,XX",
+            "similarity": "100%",
+            "justification": "Manutenção do conceito de 'Sistema de Autoatendimento' (ou Unidade de Resposta Audível - URA) para interação direta com o usuário [4, 5]."
+        },
+        {
+            "from": "317/2002_Art.6",
+            "to": "575/2011_Art.15",
+            "similarity": "90%",
+            "justification": "Ambos regulam o completamento de chamadas para Centros de Atendimento, embora o limite mínimo tenha sido alterado de 98% para 95% (indicador SMP3) [6, 7]."
+        },
+        {
+            "from": "317/2002_Art.7",
+            "to": "575/2011_Art.31",
+            "similarity": "80%",
+            "justification": "Tratam do tempo para atendimento por telefonista em sistemas automáticos. O prazo aumentou de 10s (em 95% dos casos) para 20s (em 90% dos casos - SMP12) [6, 8]."
+        },
+        {
+            "from": "317/2002_Art.8",
+            "to": "575/2011_Art.16",
+            "similarity": "100%",
+            "justification": "Manutenção do percentual mínimo de 67% para o completamento de tentativas de originar chamadas (SMP4) [6, 9]."
+        },
+        {
+            "from": "317/2002_Art.10",
+            "to": "575/2011_Art.19",
+            "similarity": "100%",
+            "justification": "Manutenção da meta de que a taxa de chamadas interrompidas por queda de ligação deve ser inferior a 2% (SMP7) [6, 10]."
+        },
+        {
+            "from": "317/2002_Art.11",
+            "to": "575/2011_Art.32",
+            "similarity": "100%",
+            "justification": "Preservação do prazo de 5 dias úteis para resposta a solicitações ou pedidos de informação em 95% dos casos (SMP13) [11, 12]."
+        },
+        {
+            "from": "317/2002_Art.13",
+            "to": "575/2011_Art.33",
+            "similarity": "85%",
+            "justification": "Ambos regulam o tempo de espera no atendimento presencial, mas o limite foi ampliado de 10 minutos para 30 minutos (SMP14) [11, 13]."
+        },
+        {
+            "from": "317/2002_Art.18",
+            "to": "575/2011_Art.53",
+            "similarity": "100%",
+            "justification": "Dispositivos idênticos prevendo sanções cabíveis pelo descumprimento das metas de qualidade estabelecidas [11, 14]."
+        },
+        {
+            "from": "317/2002_Art.19",
+            "to": "575/2011_Art.54",
+            "similarity": "100%",
+            "justification": "Mantêm as formas de fiscalização: acompanhamento de indicadores, auditorias e pesquisas de satisfação junto aos usuários [11, 14]."
+        },
+        {
+            "from": "323/2002_Item.1",
+            "to": "715/2019_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos definem o objetivo de estabelecer condições e regras para a avaliação da conformidade e certificação de produtos para telecomunicações [2, 3]."
+        },
+        {
+            "from": "323/2002_Item.4.7",
+            "to": "715/2019_Art.4,III",
+            "similarity": "100%",
+            "justification": "A definição de 'Sistema de Certificação' na norma antiga equivale semanticamente à definição de 'Avaliação da Conformidade' na norma nova [4, 5]."
+        },
+        {
+            "from": "323/2002_Item.5.1",
+            "to": "715/2019_Art.7",
+            "similarity": "100%",
+            "justification": "Tratam das atribuições da Anatel no processo, especificamente a competência para designar e gerir os Organismos de Certificação [4, 6]."
+        },
+        {
+            "from": "323/2002_Item.5.2",
+            "to": "715/2019_Art.12",
+            "similarity": "100%",
+            "justification": "Definem as obrigações e regras de atuação dos Organismos de Certificação Designados (OCD) na condução dos processos [4, 7]."
+        },
+        {
+            "from": "323/2002_Item.6.4",
+            "to": "715/2019_Art.38",
+            "similarity": "90%",
+            "justification": "Estabelecem os requisitos mínimos e as informações que devem constar no Certificado de Conformidade emitido pelo OCD [4, 8]."
+        },
+        {
+            "from": "323/2002_Item.6.8",
+            "to": "715/2019_Art.83",
+            "similarity": "95%",
+            "justification": "Versam sobre o uso abusivo ou indevido da marca/selo de conformidade e as condutas passíveis de sanção [9, 10]."
+        },
+        {
+            "from": "323/2002_Item.7.1.2",
+            "to": "715/2019_Art.25",
+            "similarity": "90%",
+            "justification": "Tratam dos procedimentos operacionais e etapas que devem compor os programas de avaliação da conformidade [9, 11]."
+        },
+        {
+            "from": "323/2002_Item.7.4.1",
+            "to": "715/2019_Art.29,V",
+            "similarity": "100%",
+            "justification": "Ambos preveem a avaliação do sistema de gestão fabril como parte do modelo de certificação técnica [12, 13]."
+        },
+        {
+            "from": "323/2002_Item.7.6",
+            "to": "715/2019_Art.45",
+            "similarity": "100%",
+            "justification": "Estabelecem a necessidade de procedimentos de manutenção da certificação para garantir a permanência das condições técnicas [14, 15]."
+        },
+        {
+            "from": "323/2002_Item.7.8",
+            "to": "715/2019_Art.80",
+            "similarity": "100%",
+            "justification": "Dispositivos idênticos quanto à observância e aplicação de Acordos de Reconhecimento Mútuo (ARM) [16, 17]."
+        },
+        {
+            "from": "335/2003_Art.1",
+            "to": "575/2011_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos estabelecem o objeto do regulamento como a definição de indicadores e metas para a gestão da qualidade do SMP [1, 3]."
+        },
+        {
+            "from": "335/2003_Art.3,§2º",
+            "to": "575/2011_Art.8",
+            "similarity": "100%",
+            "justification": "Mantêm a regra de que os dados primários coletados para o cálculo dos indicadores devem ser enviados à Anatel mensalmente até o dia 10 do mês subsequente [4, 5]."
+        },
+        {
+            "from": "335/2003_Art.7",
+            "to": "575/2011_Art.9",
+            "similarity": "100%",
+            "justification": "Dispositivo idêntico que obriga as prestadoras a manterem os dados primários coletados por um período mínimo de 30 meses [4, 5]."
+        },
+        {
+            "from": "335/2003_Art.9,II",
+            "to": "575/2011_Art.3,XVI",
+            "similarity": "100%",
+            "justification": "Definição idêntica de 'Reclamação' como queixa, protesto ou reivindicação de direito apresentada pelo Usuário [4, 6]."
+        },
+        {
+            "from": "335/2003_Art.10",
+            "to": "575/2011_Art.13",
+            "similarity": "100%",
+            "justification": "Manutenção da 'Taxa de Reclamações' como indicador fundamental (SMP1) baseado na relação entre reclamações e acessos em operação [4, 5]."
+        },
+        {
+            "from": "335/2003_Art.12",
+            "to": "575/2011_Art.15",
+            "similarity": "100%",
+            "justification": "Equivalência direta do indicador SMP3, que mede a taxa de chamadas completadas para os Centros de Atendimento [7, 8]."
+        },
+        {
+            "from": "335/2003_Art.16",
+            "to": "575/2011_Art.19",
+            "similarity": "100%",
+            "justification": "Preservação do indicador SMP7 para medir a 'Taxa de Queda de Ligação' na rede da prestadora [9, 10]."
+        },
+        {
+            "from": "335/2003_Art.19",
+            "to": "575/2011_Art.33",
+            "similarity": "100%",
+            "justification": "O indicador de 'Taxa de Atendimento Pessoal ao Usuário' migrou de SMP10 na norma antiga para SMP14 na norma nova [11, 12]."
+        },
+        {
+            "from": "335/2003_Art.26",
+            "to": "575/2011_Art.53",
+            "similarity": "100%",
+            "justification": "Estabelecem que o descumprimento das metas ou obrigações do regulamento sujeita a infratora às sanções cabíveis [13, 14]."
+        },
+        {
+            "from": "335/2003_Anexo_1",
+            "to": "575/2011_Anexo_III",
+            "similarity": "100%",
+            "justification": "Mantêm o modelo visual e a metodologia matemática de consolidação dos indicadores de Unidade Primária para Unidade Secundária [15, 16]."
+        },
+        {
+            "from": "411/2005_Art.1",
+            "to": "717/2019_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos estabelecem o objetivo de disciplinar a gestão da qualidade na prestação dos serviços, com a norma de 2019 unificando a TV por assinatura aos demais serviços de telecomunicações [2, 5]."
+        },
+        {
+            "from": "411/2005_Art.8",
+            "to": "717/2019_Anexo_I_Tabela_3_IR",
+            "similarity": "100%",
+            "justification": "O Índice de Reclamação do Serviço (IRS) da TV por assinatura foi substituído pelo Índice de Reclamações na Anatel (IR), que mede a relação entre queixas e base de usuários [6, 7]."
+        },
+        {
+            "from": "411/2005_Art.9",
+            "to": "717/2019_Anexo_I_IND9",
+            "similarity": "100%",
+            "justification": "O indicador de cumprimento de prazo para solicitações de instalação migrou para o indicador unificado de Cumprimento de Prazo de instalação e reparo [6, 8]."
+        },
+        {
+            "from": "411/2005_Art.14",
+            "to": "717/2019_Anexo_I_INF2",
+            "similarity": "90%",
+            "justification": "As metas de tempo de espera para atendimento por telefonista em sistemas de autoatendimento evoluíram para o indicador informativo de Tempo Médio de Espera para Atendimento [8, 9]."
+        },
+        {
+            "from": "411/2005_Art.16",
+            "to": "717/2019_Anexo_I_IND8",
+            "similarity": "100%",
+            "justification": "As obrigações relativas à solução de interrupções de serviço foram consolidadas no indicador de Disponibilidade, que mede o tempo que o serviço permanece em operação para os usuários [8, 10]."
+        },
+        {
+            "from": "411/2005_Art.17",
+            "to": "717/2019_Anexo_I_IND9",
+            "similarity": "100%",
+            "justification": "As metas para atendimento de solicitações de reparos por falhas técnicas também foram integradas ao indicador de Cumprimento de Prazo do grupo de relacionamento [8, 10]."
+        },
+        {
+            "from": "411/2005_Art.18",
+            "to": "717/2019_Art.10,§2º",
+            "similarity": "90%",
+            "justification": "O prazo para envio de dados de qualidade à Anatel foi antecipado do dia 15 para o dia 10 do mês subsequente ao da coleta [10, 11]."
+        },
+        {
+            "from": "411/2005_Art.20",
+            "to": "717/2019_Art.22",
+            "similarity": "90%",
+            "justification": "O período de obrigatoriedade de guarda dos dados primários e registros de atendimento foi ampliado de 24 meses para o mínimo de 3 anos (36 meses) [12, 13]."
+        },
+        {
+            "from": "426/2005_Art.1",
+            "to": "777/2025_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos estabelecem que a prestação do serviço é regida pela Lei Geral de Telecomunicações e pela regulamentação específica da Anatel [3, 4]."
+        },
+        {
+            "from": "426/2005_Art.2",
+            "to": "777/2025_Art.1",
+            "similarity": "100%",
+            "justification": "Dispositivo idêntico quanto ao objetivo de disciplinar as condições de prestação e fruição do serviço de telecomunicações [3, 4]."
+        },
+        {
+            "from": "426/2005_Art.3,XXIII",
+            "to": "777/2025_Art.11",
+            "similarity": "100%",
+            "justification": "Definição técnica idêntica do STFC como serviço para transmissão de voz e outros sinais entre pontos fixos determinados [5, 6]."
+        },
+        {
+            "from": "426/2005_Art.6",
+            "to": "777/2025_Art.13",
+            "similarity": "100%",
+            "justification": "Mantém a classificação das modalidades do STFC em local, longa distância nacional e longa distância internacional [5, 6]."
+        },
+        {
+            "from": "426/2005_Art.10,I",
+            "to": "777/2025_Art.41,I",
+            "similarity": "100%",
+            "justification": "Estabelecem a obrigatoriedade da interconexão entre as redes de suporte ao serviço de telecomunicações [7, 8]."
+        },
+        {
+            "from": "426/2005_Art.10,IX",
+            "to": "777/2025_Art.39",
+            "similarity": "100%",
+            "justification": "Vedação expressa à utilização de equipamentos sem certificação expedida ou aceita pela Anatel [7, 8]."
+        },
+        {
+            "from": "426/2005_Art.119",
+            "to": "777/2025_Art.62",
+            "similarity": "100%",
+            "justification": "Garantem a implementação da portabilidade de código de acesso no âmbito do STFC conforme a regulamentação [9, 10]."
+        },
+        {
+            "from": "47/1998_Item.1.1",
+            "to": "242/2000_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos definem o objetivo central de estabelecer as regras e procedimentos básicos para o modelo de certificação e homologação de produtos para telecomunicações [1, 2]."
+        },
+        {
+            "from": "47/1998_Item.3",
+            "to": "242/2000_Art.4",
+            "similarity": "95%",
+            "justification": "Ambos tratam do campo de aplicação, determinando que os produtos das Categorias I, II e III são passíveis de certificação e homologação obrigatória [2, 3]."
+        },
+        {
+            "from": "47/1998_Item.4.1",
+            "to": "242/2000_Art.3,IV",
+            "similarity": "100%",
+            "justification": "Ambos definem a certificação como o conjunto de procedimentos regulamentados que resultam na expedição de documento atestando a conformidade [2, 4]."
+        },
+        {
+            "from": "47/1998_Item.4.4",
+            "to": "242/2000_Art.3,XVIII",
+            "similarity": "100%",
+            "justification": "Definição técnica idêntica para Produtos de Categoria I, focada em equipamentos terminais para uso do público em acesso a serviços de interesse coletivo [4, 5]."
+        },
+        {
+            "from": "47/1998_Item.4.5",
+            "to": "242/2000_Art.3,XIX",
+            "similarity": "100%",
+            "justification": "Definição idêntica para Produtos de Categoria II, que utilizam o espectro radioelétrico para transmissão de sinais [4, 5]."
+        },
+        {
+            "from": "47/1998_Item.4.6",
+            "to": "242/2000_Art.3,XX",
+            "similarity": "100%",
+            "justification": "Definição idêntica para Produtos de Categoria III, abrangendo equipamentos que não se enquadram nas categorias I e II [4, 5]."
+        },
+        {
+            "from": "47/1998_Item.5.1.3",
+            "to": "242/2000_Art.12,§1º",
+            "similarity": "90%",
+            "justification": "Ambos estabelecem que o modelo de certificação deve contemplar procedimentos para produtos de fabricação nacional e estrangeira [5, 6]."
+        },
+        {
+            "from": "47/1998_Item.5.1.8",
+            "to": "242/2000_Art.39",
+            "similarity": "100%",
+            "justification": "Tratam da obrigatoriedade do produto portar a identificação ou selo da Anatel após a devida homologação [7, 8]."
+        },
+        {
+            "from": "47/1998_Item.6.2",
+            "to": "242/2000_Anexo_II",
+            "similarity": "100%",
+            "justification": "Ambos versam sobre a cobrança de preço administrativo (emolumentos) pela expedição ou reconhecimento de certificados [8, 9]."
+        },
+        {
+            "from": "574/2011_Art.1",
+            "to": "717/2019_Anexo_I_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos definem o objetivo de estabelecer mecanismos de gestão da qualidade, embora a norma de 2019 unifique todos os serviços de telecomunicações [2, 5]."
+        },
+        {
+            "from": "574/2011_Art.17",
+            "to": "717/2019_Anexo_I_Tab1_IND4",
+            "similarity": "100%",
+            "justification": "Mapeamento direto do indicador de garantia de velocidade média/instantânea de download e upload [4, 6]."
+        },
+        {
+            "from": "574/2011_Art.18",
+            "to": "717/2019_Anexo_I_Tab1_IND5",
+            "similarity": "100%",
+            "justification": "Preservação semântica do indicador de Latência Bidirecional para conexão de dados [4, 6]."
+        },
+        {
+            "from": "574/2011_Art.19",
+            "to": "717/2019_Anexo_I_Tab1_IND6",
+            "similarity": "100%",
+            "justification": "Manutenção do indicador de Variação de Latência (Jitter) na rede de dados [4, 7]."
+        },
+        {
+            "from": "574/2011_Art.20",
+            "to": "717/2019_Anexo_I_Tab1_IND7",
+            "similarity": "100%",
+            "justification": "Equivalência direta do indicador de Taxa de Perda de Pacotes [4, 8]."
+        },
+        {
+            "from": "574/2011_Art.21",
+            "to": "717/2019_Anexo_I_Tab1_IND8",
+            "similarity": "100%",
+            "justification": "Consolidação do indicador de Disponibilidade do serviço [4, 8]."
+        },
+        {
+            "from": "574/2011_Art.23",
+            "to": "717/2019_Anexo_I_Tab1_IND9",
+            "similarity": "100%",
+            "justification": "Agrupamento das metas de cumprimento de prazo de instalação e reparo em um único indicador de relacionamento [4, 9]."
+        },
+        {
+            "from": "574/2011_Art.33",
+            "to": "717/2019_Anexo_I_Art.16",
+            "similarity": "100%",
+            "justification": "Transição da Entidade Aferidora da Qualidade para a Entidade de Suporte à Aferição da Qualidade (ESAQ) [10, 11]."
+        },
+        {
+            "from": "574/2011_Art.39",
+            "to": "717/2019_Anexo_I_Art.14",
+            "similarity": "100%",
+            "justification": "Migração das competências do Grupo de Implantação (GIPAQ) para o Grupo Técnico da Qualidade (GTQUAL) [12, 13]."
+        },
+        {
+            "from": "575/2011_Art.1",
+            "to": "717/2019_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos estabelecem o objetivo de disciplinar a gestão da qualidade, mas a norma de 2019 unifica o SMP a outros serviços como STFC, SCM e TV [2, 4]."
+        },
+        {
+            "from": "575/2011_Art.8",
+            "to": "717/2019_Art.10,§2º",
+            "similarity": "100%",
+            "justification": "Mantém o prazo para envio dos dados de qualidade à Agência ou entidade aferidora até o dia 10 do mês subsequente [6, 8]."
+        },
+        {
+            "from": "575/2011_Art.16",
+            "to": "717/2019_Anexo_I_IND1",
+            "similarity": "100%",
+            "justification": "O indicador de completamento de chamadas (SMP4) equivale ao indicador de Conexão de Chamadas na Rede de Acesso [7, 9]."
+        },
+        {
+            "from": "575/2011_Art.19",
+            "to": "717/2019_Anexo_I_IND2",
+            "similarity": "100%",
+            "justification": "Mapeamento direto do indicador de Taxa de Queda de Ligações (SMP7) para o indicador de Queda de Chamadas [7, 10]."
+        },
+        {
+            "from": "575/2011_Art.20",
+            "to": "717/2019_Anexo_I_IND3",
+            "similarity": "100%",
+            "justification": "O indicador de Taxa de Conexão de Dados (SMP8) foi absorvido pelo indicador de Conexão de Dados Medida na Rede de Acesso [7, 10]."
+        },
+        {
+            "from": "575/2011_Art.22",
+            "to": "717/2019_Anexo_I_IND4",
+            "similarity": "90%",
+            "justification": "A meta de Taxa de Transmissão Instantânea (SMP10) foi consolidada no indicador de Cumprimento da Velocidade de download e upload [7, 11]."
+        },
+        {
+            "from": "575/2011_Art.23",
+            "to": "717/2019_Anexo_I_IND4",
+            "similarity": "90%",
+            "justification": "A meta de Taxa de Transmissão Média (SMP11) também foi integrada ao indicador unificado de velocidade de dados [7, 12]."
+        },
+        {
+            "from": "575/2011_Art.26",
+            "to": "717/2019_Art.16",
+            "similarity": "100%",
+            "justification": "Transição da Entidade Aferidora da Qualidade (EAQ) para a Entidade de Suporte à Aferição da Qualidade (ESAQ) [13, 14]."
+        },
+        {
+            "from": "575/2011_Art.31",
+            "to": "717/2019_Anexo_I_INF2",
+            "similarity": "95%",
+            "justification": "O tempo de atendimento por telefonista (SMP12) evoluiu para o indicador informativo de Tempo Médio de Espera para Atendimento [7, 15]."
+        },
+        {
+            "from": "575/2011_Art.32",
+            "to": "717/2019_Anexo_I_IND9",
+            "similarity": "90%",
+            "justification": "O prazo de resposta a solicitações do usuário (SMP13) foi agrupado no indicador de Cumprimento de Prazo do grupo de relacionamento [7, 16]."
+        },
+        {
+            "from": "575/2011_Art.47",
+            "to": "717/2019_Art.14",
+            "similarity": "100%",
+            "justification": "Migração das funções do Grupo de Implantação (GIPAQ) para o novo Grupo Técnico da Qualidade (GTQUAL) [17, 18]."
+        },
+        {
+            "from": "614/2013_Art.1",
+            "to": "777/2025_Art.1",
+            "similarity": "95%",
+            "justification": "Ambos estabelecem o objetivo de disciplinar as condições de prestação e fruição dos serviços de telecomunicações [1, 2]."
+        },
+        {
+            "from": "614/2013_Art.3",
+            "to": "777/2025_Art.17",
+            "similarity": "100%",
+            "justification": "Definição idêntica do Serviço de Comunicação Multimídia (SCM) como serviço de interesse coletivo para transmissão de informações multimídia [1, 3]."
+        },
+        {
+            "from": "614/2013_Art.4,XVIII",
+            "to": "777/2025_Art.8,IV",
+            "similarity": "100%",
+            "justification": "Definição semântica idêntica de Serviço de Valor Adicionado (SVA), caracterizando-o como atividade que acrescenta utilidades ao serviço de telecomunicações que lhe dá suporte [4, 5]."
+        },
+        {
+            "from": "614/2013_Art.6",
+            "to": "777/2025_Art.41,I",
+            "similarity": "100%",
+            "justification": "Estabelecem a obrigatoriedade da interconexão entre as redes de suporte aos serviços de telecomunicações [4, 6]."
+        },
+        {
+            "from": "614/2013_Art.7",
+            "to": "777/2025_Art.46",
+            "similarity": "100%",
+            "justification": "Asseguram aos interessados o direito ao uso das redes de suporte para provimento de SVA de forma não discriminatória e a preços justos [4, 7]."
+        },
+        {
+            "from": "614/2013_Art.9",
+            "to": "777/2025_Art.59",
+            "similarity": "100%",
+            "justification": "Determinam que a remuneração pelo uso de redes de telecomunicações deve ser livremente pactuada entre as prestadoras [8, 9]."
+        },
+        {
+            "from": "614/2013_Art.26",
+            "to": "777/2025_Art.39",
+            "similarity": "100%",
+            "justification": "Exigem que os equipamentos de telecomunicações possuam certificação expedida ou aceita pela Anatel [6, 10]."
+        },
+        {
+            "from": "614/2013_Art.38",
+            "to": "777/2025_Art.6,§1º",
+            "similarity": "100%",
+            "justification": "Reafirmam o princípio da prestação do serviço em condições não discriminatórias a todos os interessados [5, 11]."
+        },
+        {
+            "from": "614/2013_Art.41,II",
+            "to": "777/2025_Art.118,II",
+            "similarity": "100%",
+            "justification": "Garantem à prestadora o direito de contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço [12, 13]."
+        },
+        {
+            "from": "614/2013_Art.42",
+            "to": "777/2025_Art.44",
+            "similarity": "100%",
+            "justification": "Definem a configuração de Exploração Industrial de Rede quando uma prestadora contrata recursos de outra para constituição de sua própria rede [7, 12]."
+        },
+        {
+            "from": "632/2014_Art.3,I",
+            "to": "765/2023_Art.4,I",
+            "similarity": "100%",
+            "justification": "Mantém o direito fundamental ao acesso e fruição dos serviços dentro dos padrões de qualidade e regularidade previstos."
+        },
+        {
+            "from": "632/2014_Art.3,II",
+            "to": "765/2023_Art.4,II",
+            "similarity": "100%",
+            "justification": "Preserva a liberdade de escolha da prestadora e do plano de serviço pelo consumidor."
+        },
+        {
+            "from": "632/2014_Art.3,III",
+            "to": "765/2023_Art.4,III",
+            "similarity": "100%",
+            "justification": "Ambos asseguram o tratamento não discriminatório quanto às condições de acesso e fruição do serviço [1, 2]."
+        },
+        {
+            "from": "632/2014_Art.3,IV",
+            "to": "765/2023_Art.4,V",
+            "similarity": "100%",
+            "justification": "Garante o direito ao conhecimento prévio e à informação adequada sobre as condições de contratação e preços."
+        },
+        {
+            "from": "632/2014_Art.3,V",
+            "to": "765/2023_Art.4,VII",
+            "similarity": "100%",
+            "justification": "Mantém a proteção à inviolabilidade e ao segredo da comunicação do consumidor."
+        },
+        {
+            "from": "632/2014_Art.3,XV",
+            "to": "765/2023_Art.4,XVI",
+            "similarity": "100%",
+            "justification": "Reitera o direito do consumidor à rescisão do contrato a qualquer tempo e sem ônus, ressalvadas as multas de fidelização."
+        },
+        {
+            "from": "632/2014_Art.4,I",
+            "to": "765/2023_Art.6,I",
+            "similarity": "100%",
+            "justification": "Mantém o dever do consumidor de utilizar adequadamente os serviços, equipamentos e redes de telecomunicações [3, 4]."
+        },
+        {
+            "from": "632/2014_Art.4,VII",
+            "to": "765/2023_Art.6,VII",
+            "similarity": "100%",
+            "justification": "Conserva o dever de comunicar imediatamente à prestadora casos de roubo, extravio ou alteração de dados cadastrais [5, 6]."
+        },
+        {
+            "from": "632/2014_Art.7,caput",
+            "to": "765/2023_Art.9,caput",
+            "similarity": "100%",
+            "justification": "Obrigatoriedade de fornecimento do número de protocolo ao consumidor logo no início de qualquer interação de atendimento [5, 6]."
+        },
+        {
+            "from": "632/2014_Art.13,caput",
+            "to": "765/2023_Art.82,caput",
+            "similarity": "100%",
+            "justification": "Estabelece que o pedido de rescisão do contrato independe do adimplemento contratual por parte do consumidor [7, 8]."
+        },
+        {
+            "from": "632/2014_Art.104-A,§7º",
+            "to": "765/2023_Art.87,§7º",
+            "similarity": "100%",
+            "justification": "Mantém o prazo de 10 dias corridos para que a Ouvidoria apresente resposta às demandas dos consumidores [9, 10]."
+        },
+        {
+            "from": "85/1998_Art.1",
+            "to": "426/2005_Art.1",
+            "similarity": "100%",
+            "justification": "Ambos os artigos definem a regência do STFC pela Lei Geral de Telecomunicações e pelo próprio regulamento [1, 2]."
+        },
+        {
+            "from": "85/1998_Art.2",
+            "to": "426/2005_Art.2",
+            "similarity": "100%",
+            "justification": "Dispositivo idêntico que estabelece o objetivo de disciplinar as condições de prestação e fruição do serviço [1, 3]."
+        },
+        {
+            "from": "85/1998_Art.3,II",
+            "to": "426/2005_Art.3,III",
+            "similarity": "100%",
+            "justification": "Mantém a definição de Área Local como área geográfica contínua definida pela Agência para prestação do serviço [3, 4]."
+        },
+        {
+            "from": "85/1998_Art.3,III",
+            "to": "426/2005_Art.3,IV",
+            "similarity": "100%",
+            "justification": "Definição idêntica de Assinante como a pessoa natural ou jurídica que firma contrato com a prestadora [3, 4]."
+        },
+        {
+            "from": "85/1998_Art.3,XX",
+            "to": "426/2005_Art.3,XXIII",
+            "similarity": "100%",
+            "justification": "Mantém a definição técnica do STFC focada na transmissão de voz e sinais entre pontos fixos determinados [5, 6]."
+        },
+        {
+            "from": "85/1998_Art.6",
+            "to": "426/2005_Art.4",
+            "similarity": "100%",
+            "justification": "Classificação idêntica do STFC como serviço de telecomunicações de interesse coletivo [5, 6]."
+        },
+        {
+            "from": "85/1998_Art.8",
+            "to": "426/2005_Art.6",
+            "similarity": "100%",
+            "justification": "Enumeração das modalidades do STFC (local, longa distância nacional e internacional) [5, 6]."
+        },
+        {
+            "from": "85/1998_Art.11,I",
+            "to": "426/2005_Art.10,I",
+            "similarity": "100%",
+            "justification": "Estabelece a obrigatoriedade da interconexão das redes de suporte ao STFC [6, 7]."
+        },
+        {
+            "from": "85/1998_Art.11,VIII",
+            "to": "426/2005_Art.10,IX",
+            "similarity": "100%",
+            "justification": "Veda a utilização de equipamentos sem certificação expedida ou aceita pela Agência [7, 8]."
+        },
+        {
+            "from": "85/1998_Art.12,I",
+            "to": "426/2005_Art.11,I",
+            "similarity": "100%",
+            "justification": "Assegura ao usuário o direito ao acesso e fruição do serviço dentro dos padrões de qualidade [8, 9]."
+        },
+        {
+            "from": "85/1998_Art.12,II",
+            "to": "426/2005_Art.11,II",
+            "similarity": "100%",
+            "justification": "Garante ao usuário a liberdade de escolha de sua prestadora de serviço [8, 9]."
+        },
+        {
+            "from": "85/1998_Art.17",
+            "to": "426/2005_Art.23",
+            "similarity": "100%",
+            "justification": "Trata da responsabilidade da prestadora pela inviolabilidade do sigilo das comunicações [10, 11]."
+        },
+        {
+            "from": "85/1998_Art.29",
+            "to": "426/2005_Art.47",
+            "similarity": "100%",
+            "justification": "Obrigatoriedade de oferta de um Plano Básico de Serviço a todos os usuários interessados [12, 13]."
+        },
+        {
+            "from": "85/1998_Art.53",
+            "to": "426/2005_Art.80",
+            "similarity": "100%",
+            "justification": "Regra para entrega do documento de cobrança com antecedência mínima de 5 dias do vencimento [14, 15]."
+        },
+        {
+            "from": "85/1998_Art.54",
+            "to": "426/2005_Art.82",
+            "similarity": "100%",
+            "justification": "Exigência de que o documento de cobrança seja detalhado e explicativo [15, 16]."
+        },
+        {
+            "from": "85/1998_Art.68",
+            "to": "426/2005_Art.101",
+            "similarity": "100%",
+            "justification": "Estabelece que após 30 dias de inadimplência a prestadora pode suspender parcialmente o provimento do serviço [17, 18]."
+        }
+    ]
+}

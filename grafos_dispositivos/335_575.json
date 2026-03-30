@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    "335/2003_Art.1",
+    "335/2003_Art.3,§2º",
+    "335/2003_Art.7",
+    "335/2003_Art.9,II",
+    "335/2003_Art.10",
+    "335/2003_Art.12",
+    "335/2003_Art.16",
+    "335/2003_Art.19",
+    "335/2003_Art.26",
+    "335/2003_Anexo_1",
+    "575/2011_Art.1",
+    "575/2011_Art.3,XVI",
+    "575/2011_Art.8",
+    "575/2011_Art.9",
+    "575/2011_Art.13",
+    "575/2011_Art.15",
+    "575/2011_Art.19",
+    "575/2011_Art.33",
+    "575/2011_Art.53",
+    "575/2011_Anexo_III"
+  ],
+  "edges": [
+    {
+      "from": "335/2003_Art.1",
+      "to": "575/2011_Art.1",
+      "similarity": "100%",
+      "justification": "Ambos estabelecem o objeto do regulamento como a definição de indicadores e metas para a gestão da qualidade do SMP [1, 3]."
+    },
+    {
+      "from": "335/2003_Art.3,§2º",
+      "to": "575/2011_Art.8",
+      "similarity": "100%",
+      "justification": "Mantêm a regra de que os dados primários coletados para o cálculo dos indicadores devem ser enviados à Anatel mensalmente até o dia 10 do mês subsequente [4, 5]."
+    },
+    {
+      "from": "335/2003_Art.7",
+      "to": "575/2011_Art.9",
+      "similarity": "100%",
+      "justification": "Dispositivo idêntico que obriga as prestadoras a manterem os dados primários coletados por um período mínimo de 30 meses [4, 5]."
+    },
+    {
+      "from": "335/2003_Art.9,II",
+      "to": "575/2011_Art.3,XVI",
+      "similarity": "100%",
+      "justification": "Definição idêntica de 'Reclamação' como queixa, protesto ou reivindicação de direito apresentada pelo Usuário [4, 6]."
+    },
+    {
+      "from": "335/2003_Art.10",
+      "to": "575/2011_Art.13",
+      "similarity": "100%",
+      "justification": "Manutenção da 'Taxa de Reclamações' como indicador fundamental (SMP1) baseado na relação entre reclamações e acessos em operação [4, 5]."
+    },
+    {
+      "from": "335/2003_Art.12",
+      "to": "575/2011_Art.15",
+      "similarity": "100%",
+      "justification": "Equivalência direta do indicador SMP3, que mede a taxa de chamadas completadas para os Centros de Atendimento [7, 8]."
+    },
+    {
+      "from": "335/2003_Art.16",
+      "to": "575/2011_Art.19",
+      "similarity": "100%",
+      "justification": "Preservação do indicador SMP7 para medir a 'Taxa de Queda de Ligação' na rede da prestadora [9, 10]."
+    },
+    {
+      "from": "335/2003_Art.19",
+      "to": "575/2011_Art.33",
+      "similarity": "100%",
+      "justification": "O indicador de 'Taxa de Atendimento Pessoal ao Usuário' migrou de SMP10 na norma antiga para SMP14 na norma nova [11, 12]."
+    },
+    {
+      "from": "335/2003_Art.26",
+      "to": "575/2011_Art.53",
+      "similarity": "100%",
+      "justification": "Estabelecem que o descumprimento das metas ou obrigações do regulamento sujeita a infratora às sanções cabíveis [13, 14]."
+    },
+    {
+      "from": "335/2003_Anexo_1",
+      "to": "575/2011_Anexo_III",
+      "similarity": "100%",
+      "justification": "Mantêm o modelo visual e a metodologia matemática de consolidação dos indicadores de Unidade Primária para Unidade Secundária [15, 16]."
+    }
+  ]
+}

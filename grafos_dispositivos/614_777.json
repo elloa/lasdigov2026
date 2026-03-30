@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    "614/2013_Art.1",
+    "614/2013_Art.3",
+    "614/2013_Art.4,XVIII",
+    "614/2013_Art.6",
+    "614/2013_Art.7",
+    "614/2013_Art.9",
+    "614/2013_Art.26",
+    "614/2013_Art.38",
+    "614/2013_Art.41,II",
+    "614/2013_Art.42",
+    "777/2025_Art.1",
+    "777/2025_Art.6,§1º",
+    "777/2025_Art.8,IV",
+    "777/2025_Art.17",
+    "777/2025_Art.39",
+    "777/2025_Art.41,I",
+    "777/2025_Art.44",
+    "777/2025_Art.46",
+    "777/2025_Art.59",
+    "777/2025_Art.118,II"
+  ],
+  "edges": [
+    {
+      "from": "614/2013_Art.1",
+      "to": "777/2025_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos estabelecem o objetivo de disciplinar as condições de prestação e fruição dos serviços de telecomunicações [1, 2]."
+    },
+    {
+      "from": "614/2013_Art.3",
+      "to": "777/2025_Art.17",
+      "similarity": "100%",
+      "justification": "Definição idêntica do Serviço de Comunicação Multimídia (SCM) como serviço de interesse coletivo para transmissão de informações multimídia [1, 3]."
+    },
+    {
+      "from": "614/2013_Art.4,XVIII",
+      "to": "777/2025_Art.8,IV",
+      "similarity": "100%",
+      "justification": "Definição semântica idêntica de Serviço de Valor Adicionado (SVA), caracterizando-o como atividade que acrescenta utilidades ao serviço de telecomunicações que lhe dá suporte [4, 5]."
+    },
+    {
+      "from": "614/2013_Art.6",
+      "to": "777/2025_Art.41,I",
+      "similarity": "100%",
+      "justification": "Estabelecem a obrigatoriedade da interconexão entre as redes de suporte aos serviços de telecomunicações [4, 6]."
+    },
+    {
+      "from": "614/2013_Art.7",
+      "to": "777/2025_Art.46",
+      "similarity": "100%",
+      "justification": "Asseguram aos interessados o direito ao uso das redes de suporte para provimento de SVA de forma não discriminatória e a preços justos [4, 7]."
+    },
+    {
+      "from": "614/2013_Art.9",
+      "to": "777/2025_Art.59",
+      "similarity": "100%",
+      "justification": "Determinam que a remuneração pelo uso de redes de telecomunicações deve ser livremente pactuada entre as prestadoras [8, 9]."
+    },
+    {
+      "from": "614/2013_Art.26",
+      "to": "777/2025_Art.39",
+      "similarity": "100%",
+      "justification": "Exigem que os equipamentos de telecomunicações possuam certificação expedida ou aceita pela Anatel [6, 10]."
+    },
+    {
+      "from": "614/2013_Art.38",
+      "to": "777/2025_Art.6,§1º",
+      "similarity": "100%",
+      "justification": "Reafirmam o princípio da prestação do serviço em condições não discriminatórias a todos os interessados [5, 11]."
+    },
+    {
+      "from": "614/2013_Art.41,II",
+      "to": "777/2025_Art.118,II",
+      "similarity": "100%",
+      "justification": "Garantem à prestadora o direito de contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço [12, 13]."
+    },
+    {
+      "from": "614/2013_Art.42",
+      "to": "777/2025_Art.44",
+      "similarity": "100%",
+      "justification": "Definem a configuração de Exploração Industrial de Rede quando uma prestadora contrata recursos de outra para constituição de sua própria rede [7, 12]."
+    }
+  ]
+}

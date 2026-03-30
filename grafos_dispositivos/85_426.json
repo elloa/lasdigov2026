@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    "85/1998_Art.1",
+    "85/1998_Art.2",
+    "85/1998_Art.3,II",
+    "85/1998_Art.3,III",
+    "85/1998_Art.3,XX",
+    "85/1998_Art.6",
+    "85/1998_Art.8",
+    "85/1998_Art.11,I",
+    "85/1998_Art.11,VIII",
+    "85/1998_Art.12,I",
+    "85/1998_Art.12,II",
+    "85/1998_Art.17",
+    "85/1998_Art.29",
+    "85/1998_Art.53",
+    "85/1998_Art.54",
+    "85/1998_Art.68",
+    "426/2005_Art.1",
+    "426/2005_Art.2",
+    "426/2005_Art.3,III",
+    "426/2005_Art.3,IV",
+    "426/2005_Art.3,XXIII",
+    "426/2005_Art.4",
+    "426/2005_Art.6",
+    "426/2005_Art.10,I",
+    "426/2005_Art.10,IX",
+    "426/2005_Art.11,I",
+    "426/2005_Art.11,II",
+    "426/2005_Art.23",
+    "426/2005_Art.47",
+    "426/2005_Art.80",
+    "426/2005_Art.82",
+    "426/2005_Art.101"
+  ],
+  "edges": [
+    {
+      "from": "85/1998_Art.1",
+      "to": "426/2005_Art.1",
+      "similarity": "100%",
+      "justification": "Ambos os artigos definem a regência do STFC pela Lei Geral de Telecomunicações e pelo próprio regulamento [1, 2]."
+    },
+    {
+      "from": "85/1998_Art.2",
+      "to": "426/2005_Art.2",
+      "similarity": "100%",
+      "justification": "Dispositivo idêntico que estabelece o objetivo de disciplinar as condições de prestação e fruição do serviço [1, 3]."
+    },
+    {
+      "from": "85/1998_Art.3,II",
+      "to": "426/2005_Art.3,III",
+      "similarity": "100%",
+      "justification": "Mantém a definição de Área Local como área geográfica contínua definida pela Agência para prestação do serviço [3, 4]."
+    },
+    {
+      "from": "85/1998_Art.3,III",
+      "to": "426/2005_Art.3,IV",
+      "similarity": "100%",
+      "justification": "Definição idêntica de Assinante como a pessoa natural ou jurídica que firma contrato com a prestadora [3, 4]."
+    },
+    {
+      "from": "85/1998_Art.3,XX",
+      "to": "426/2005_Art.3,XXIII",
+      "similarity": "100%",
+      "justification": "Mantém a definição técnica do STFC focada na transmissão de voz e sinais entre pontos fixos determinados [5, 6]."
+    },
+    {
+      "from": "85/1998_Art.6",
+      "to": "426/2005_Art.4",
+      "similarity": "100%",
+      "justification": "Classificação idêntica do STFC como serviço de telecomunicações de interesse coletivo [5, 6]."
+    },
+    {
+      "from": "85/1998_Art.8",
+      "to": "426/2005_Art.6",
+      "similarity": "100%",
+      "justification": "Enumeração das modalidades do STFC (local, longa distância nacional e internacional) [5, 6]."
+    },
+    {
+      "from": "85/1998_Art.11,I",
+      "to": "426/2005_Art.10,I",
+      "similarity": "100%",
+      "justification": "Estabelece a obrigatoriedade da interconexão das redes de suporte ao STFC [6, 7]."
+    },
+    {
+      "from": "85/1998_Art.11,VIII",
+      "to": "426/2005_Art.10,IX",
+      "similarity": "100%",
+      "justification": "Veda a utilização de equipamentos sem certificação expedida ou aceita pela Agência [7, 8]."
+    },
+    {
+      "from": "85/1998_Art.12,I",
+      "to": "426/2005_Art.11,I",
+      "similarity": "100%",
+      "justification": "Assegura ao usuário o direito ao acesso e fruição do serviço dentro dos padrões de qualidade [8, 9]."
+    },
+    {
+      "from": "85/1998_Art.12,II",
+      "to": "426/2005_Art.11,II",
+      "similarity": "100%",
+      "justification": "Garante ao usuário a liberdade de escolha de sua prestadora de serviço [8, 9]."
+    },
+    {
+      "from": "85/1998_Art.17",
+      "to": "426/2005_Art.23",
+      "similarity": "100%",
+      "justification": "Trata da responsabilidade da prestadora pela inviolabilidade do sigilo das comunicações [10, 11]."
+    },
+    {
+      "from": "85/1998_Art.29",
+      "to": "426/2005_Art.47",
+      "similarity": "100%",
+      "justification": "Obrigatoriedade de oferta de um Plano Básico de Serviço a todos os usuários interessados [12, 13]."
+    },
+    {
+      "from": "85/1998_Art.53",
+      "to": "426/2005_Art.80",
+      "similarity": "100%",
+      "justification": "Regra para entrega do documento de cobrança com antecedência mínima de 5 dias do vencimento [14, 15]."
+    },
+    {
+      "from": "85/1998_Art.54",
+      "to": "426/2005_Art.82",
+      "similarity": "100%",
+      "justification": "Exigência de que o documento de cobrança seja detalhado e explicativo [15, 16]."
+    },
+    {
+      "from": "85/1998_Art.68",
+      "to": "426/2005_Art.101",
+      "similarity": "100%",
+      "justification": "Estabelece que após 30 dias de inadimplência a prestadora pode suspender parcialmente o provimento do serviço [17, 18]."
+    }
+  ]
+}

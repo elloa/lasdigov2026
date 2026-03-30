@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    "255/2001_Art.1",
+    "255/2001_Art.4",
+    "255/2001_Art.5",
+    "255/2001_Art.11",
+    "255/2001_Art.24",
+    "255/2001_Art.27",
+    "255/2001_Art.31",
+    "729/2020_Art.1",
+    "729/2020_Art.2",
+    "729/2020_Art.4,§1º",
+    "729/2020_Art.10",
+    "729/2020_Art.26",
+    "729/2020_Art.28",
+    "729/2020_Art.32,§1º",
+    "729/2020_Art.32,§2º"
+  ],
+  "edges": [
+    {
+      "from": "255/2001_Art.1",
+      "to": "729/2020_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos definem o objetivo de disciplinar a arrecadação de tributos, embora a norma de 2020 seja mais ampla ao incluir FUST e CFRP além do FISTEL [1, 2]."
+    },
+    {
+      "from": "255/2001_Art.4",
+      "to": "729/2020_Art.2",
+      "similarity": "100%",
+      "justification": "Confirmam a aplicação das regras às Taxas de Fiscalização de Instalação (TFI) e de Funcionamento (TFF) [2, 3]."
+    },
+    {
+      "from": "255/2001_Art.5",
+      "to": "729/2020_Art.4,§1º",
+      "similarity": "100%",
+      "justification": "Estabelecem que o fato gerador ou a obrigatoriedade do pagamento da TFI ocorre no momento da emissão da Licença para Funcionamento [3, 4]."
+    },
+    {
+      "from": "255/2001_Art.11",
+      "to": "729/2020_Art.10",
+      "similarity": "100%",
+      "justification": "Mantêm o prazo final de pagamento anual da Taxa de Fiscalização de Funcionamento (TFF) até o dia 31 de março [3, 4]."
+    },
+    {
+      "from": "255/2001_Art.24,I",
+      "to": "729/2020_Art.32,§2º",
+      "similarity": "100%",
+      "justification": "Preservam a regra de multa moratória de 0,33% por dia de atraso, limitada ao teto de 20% [5, 6]."
+    },
+    {
+      "from": "255/2001_Art.24,II",
+      "to": "729/2020_Art.32,§1º",
+      "similarity": "100%",
+      "justification": "Mantêm a aplicação de juros de mora baseados na taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC) [5, 7]."
+    },
+    {
+      "from": "255/2001_Art.27",
+      "to": "729/2020_Art.26",
+      "similarity": "95%",
+      "justification": "Determinam que a arrecadação deve ser feita via rede bancária; a norma nova especifica o uso da Guia de Recolhimento da União (GRU) [5, 8]."
+    },
+    {
+      "from": "255/2001_Art.31",
+      "to": "729/2020_Art.28",
+      "similarity": "100%",
+      "justification": "Reiteram a lista de órgãos isentos das taxas, como a própria Anatel, Forças Armadas e Polícia Federal [8, 9]."
+    }
+  ]
+}

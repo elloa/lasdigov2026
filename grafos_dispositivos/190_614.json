@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    "190/1999_Art.8,III",
+    "190/1999_Art.9,caput",
+    "190/1999_Art.18",
+    "190/1999_Art.22",
+    "190/1999_Art.23,II",
+    "190/1999_Art.23,III",
+    "190/1999_Art.25",
+    "190/1999_Art.28",
+    "614/2013_Art.4,XVIII",
+    "614/2013_Art.7,caput",
+    "614/2013_Art.38",
+    "614/2013_Art.51",
+    "614/2013_Art.56,II",
+    "614/2013_Art.56,VII",
+    "614/2013_Art.56,XIX",
+    "614/2013_Art.68,caput"
+  ],
+  "edges": [
+    {
+      "from": "190/1999_Art.8,III",
+      "to": "614/2013_Art.4,XVIII",
+      "similarity": "100%",
+      "justification": "Definição idêntica de Serviço de Valor Adicionado (SVA) como atividade que acrescenta novas utilidades a um serviço de telecomunicações de suporte [1, 2]."
+    },
+    {
+      "from": "190/1999_Art.9,caput",
+      "to": "614/2013_Art.7,caput",
+      "similarity": "100%",
+      "justification": "Assegura aos provedores de SVA o direito ao uso das redes de suporte de forma não discriminatória e a preços justos e razoáveis [2, 3]."
+    },
+    {
+      "from": "190/1999_Art.18",
+      "to": "614/2013_Art.38",
+      "similarity": "100%",
+      "justification": "Estabelece a obrigatoriedade de prestação do serviço em condições não discriminatórias a todos os interessados na área de prestação [4, 5]."
+    },
+    {
+      "from": "190/1999_Art.22",
+      "to": "614/2013_Art.56,II",
+      "similarity": "100%",
+      "justification": "Garante ao assinante a liberdade de escolha da prestadora ou do provedor de serviço de sua preferência [4, 6]."
+    },
+    {
+      "from": "190/1999_Art.23,II",
+      "to": "614/2013_Art.56,VII",
+      "similarity": "100%",
+      "justification": "Direito do assinante de rescindir o contrato ou cancelar o serviço a qualquer tempo e sem ônus, ressalvadas as multas de fidelização [4, 6]."
+    },
+    {
+      "from": "190/1999_Art.23,III",
+      "to": "614/2013_Art.56,XIX",
+      "similarity": "100%",
+      "justification": "Direito do assinante ao recebimento de documento de cobrança com a devida discriminação dos valores cobrados [4, 7]."
+    },
+    {
+      "from": "190/1999_Art.25",
+      "to": "614/2013_Art.68,caput",
+      "similarity": "90%",
+      "justification": "Define que os preços de uso de rede e serviços são livres, devendo pautar-se pela justiça e equanimidade [4, 8]."
+    },
+    {
+      "from": "190/1999_Art.28",
+      "to": "614/2013_Art.51",
+      "similarity": "95%",
+      "justification": "Previsão de intervenção da Anatel diante de situações que prejudiquem a competição ou configurem abuso de poder econômico [4, 6]."
+    }
+  ]
+}

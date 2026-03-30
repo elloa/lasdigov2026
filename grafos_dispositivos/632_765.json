@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    "632/2014_Art.3,I",
+    "632/2014_Art.3,II",
+    "632/2014_Art.3,III",
+    "632/2014_Art.3,IV",
+    "632/2014_Art.3,V",
+    "632/2014_Art.3,XV",
+    "632/2014_Art.4,I",
+    "632/2014_Art.4,VII",
+    "632/2014_Art.7,caput",
+    "632/2014_Art.13,caput",
+    "632/2014_Art.104-A,§7º",
+    "765/2023_Art.4,I",
+    "765/2023_Art.4,II",
+    "765/2023_Art.4,III",
+    "765/2023_Art.4,V",
+    "765/2023_Art.4,VII",
+    "765/2023_Art.4,XVI",
+    "765/2023_Art.6,I",
+    "765/2023_Art.6,VII",
+    "765/2023_Art.9,caput",
+    "765/2023_Art.82,caput",
+    "765/2023_Art.87,§7º"
+  ],
+  "edges": [
+    {
+      "from": "632/2014_Art.3,I",
+      "to": "765/2023_Art.4,I",
+      "similarity": "100%",
+      "justification": "Mantém o direito fundamental ao acesso e fruição dos serviços dentro dos padrões de qualidade e regularidade previstos."
+    },
+    {
+      "from": "632/2014_Art.3,II",
+      "to": "765/2023_Art.4,II",
+      "similarity": "100%",
+      "justification": "Preserva a liberdade de escolha da prestadora e do plano de serviço pelo consumidor."
+    },
+    {
+      "from": "632/2014_Art.3,III",
+      "to": "765/2023_Art.4,III",
+      "similarity": "100%",
+      "justification": "Ambos asseguram o tratamento não discriminatório quanto às condições de acesso e fruição do serviço [1, 2]."
+    },
+    {
+      "from": "632/2014_Art.3,IV",
+      "to": "765/2023_Art.4,V",
+      "similarity": "100%",
+      "justification": "Garante o direito ao conhecimento prévio e à informação adequada sobre as condições de contratação e preços."
+    },
+    {
+      "from": "632/2014_Art.3,V",
+      "to": "765/2023_Art.4,VII",
+      "similarity": "100%",
+      "justification": "Mantém a proteção à inviolabilidade e ao segredo da comunicação do consumidor."
+    },
+    {
+      "from": "632/2014_Art.3,XV",
+      "to": "765/2023_Art.4,XVI",
+      "similarity": "100%",
+      "justification": "Reitera o direito do consumidor à rescisão do contrato a qualquer tempo e sem ônus, ressalvadas as multas de fidelização."
+    },
+    {
+      "from": "632/2014_Art.4,I",
+      "to": "765/2023_Art.6,I",
+      "similarity": "100%",
+      "justification": "Mantém o dever do consumidor de utilizar adequadamente os serviços, equipamentos e redes de telecomunicações [3, 4]."
+    },
+    {
+      "from": "632/2014_Art.4,VII",
+      "to": "765/2023_Art.6,VII",
+      "similarity": "100%",
+      "justification": "Conserva o dever de comunicar imediatamente à prestadora casos de roubo, extravio ou alteração de dados cadastrais [5, 6]."
+    },
+    {
+      "from": "632/2014_Art.7,caput",
+      "to": "765/2023_Art.9,caput",
+      "similarity": "100%",
+      "justification": "Obrigatoriedade de fornecimento do número de protocolo ao consumidor logo no início de qualquer interação de atendimento [5, 6]."
+    },
+    {
+      "from": "632/2014_Art.13,caput",
+      "to": "765/2023_Art.82,caput",
+      "similarity": "100%",
+      "justification": "Estabelece que o pedido de rescisão do contrato independe do adimplemento contratual por parte do consumidor [7, 8]."
+    },
+    {
+      "from": "632/2014_Art.104-A,§7º",
+      "to": "765/2023_Art.87,§7º",
+      "similarity": "100%",
+      "justification": "Mantém o prazo de 10 dias corridos para que a Ouvidoria apresente resposta às demandas dos consumidores [9, 10]."
+    }
+  ]
+}

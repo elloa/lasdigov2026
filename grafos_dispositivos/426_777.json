@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    "426/2005_Art.1",
+    "426/2005_Art.2",
+    "426/2005_Art.3,XXIII",
+    "426/2005_Art.6",
+    "426/2005_Art.10,I",
+    "426/2005_Art.10,IX",
+    "426/2005_Art.119",
+    "777/2025_Art.1",
+    "777/2025_Art.11",
+    "777/2025_Art.13",
+    "777/2025_Art.39",
+    "777/2025_Art.41,I",
+    "777/2025_Art.62"
+  ],
+  "edges": [
+    {
+      "from": "426/2005_Art.1",
+      "to": "777/2025_Art.1",
+      "similarity": "100%",
+      "justification": "Ambos estabelecem que a prestação do serviço é regida pela Lei Geral de Telecomunicações e pela regulamentação específica da Anatel [3, 4]."
+    },
+    {
+      "from": "426/2005_Art.2",
+      "to": "777/2025_Art.1",
+      "similarity": "100%",
+      "justification": "Dispositivo idêntico quanto ao objetivo de disciplinar as condições de prestação e fruição do serviço de telecomunicações [3, 4]."
+    },
+    {
+      "from": "426/2005_Art.3,XXIII",
+      "to": "777/2025_Art.11",
+      "similarity": "100%",
+      "justification": "Definição técnica idêntica do STFC como serviço para transmissão de voz e outros sinais entre pontos fixos determinados [5, 6]."
+    },
+    {
+      "from": "426/2005_Art.6",
+      "to": "777/2025_Art.13",
+      "similarity": "100%",
+      "justification": "Mantém a classificação das modalidades do STFC em local, longa distância nacional e longa distância internacional [5, 6]."
+    },
+    {
+      "from": "426/2005_Art.10,I",
+      "to": "777/2025_Art.41,I",
+      "similarity": "100%",
+      "justification": "Estabelecem a obrigatoriedade da interconexão entre as redes de suporte ao serviço de telecomunicações [7, 8]."
+    },
+    {
+      "from": "426/2005_Art.10,IX",
+      "to": "777/2025_Art.39",
+      "similarity": "100%",
+      "justification": "Vedação expressa à utilização de equipamentos sem certificação expedida ou aceita pela Anatel [7, 8]."
+    },
+    {
+      "from": "426/2005_Art.119",
+      "to": "777/2025_Art.62",
+      "similarity": "100%",
+      "justification": "Garantem a implementação da portabilidade de código de acesso no âmbito do STFC conforme a regulamentação [9, 10]."
+    }
+  ]
+}

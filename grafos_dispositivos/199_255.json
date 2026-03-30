@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    "199/1999_Art.1",
+    "199/1999_Art.3",
+    "199/1999_Art.4",
+    "199/1999_Art.5",
+    "199/1999_Art.10",
+    "199/1999_Art.11",
+    "199/1999_Art.24",
+    "199/1999_Art.27",
+    "199/1999_Art.31",
+    "199/1999_Anexo_I",
+    "199/1999_Anexo_II",
+    "255/2001_Art.1",
+    "255/2001_Art.3",
+    "255/2001_Art.4",
+    "255/2001_Art.5",
+    "255/2001_Art.10",
+    "255/2001_Art.11",
+    "255/2001_Art.24",
+    "255/2001_Art.27",
+    "255/2001_Art.31",
+    "255/2001_Anexo_I",
+    "255/2001_Anexo_II"
+  ],
+  "edges": [
+    {
+      "from": "199/1999_Art.1",
+      "to": "255/2001_Art.1",
+      "similarity": "100%",
+      "justification": "Ambos os artigos definem o objetivo idêntico de disciplinar a arrecadação de receitas do Fundo de Fiscalização das Telecomunicações - Fistel [1, 2]."
+    },
+    {
+      "from": "199/1999_Art.3",
+      "to": "255/2001_Art.3",
+      "similarity": "95%",
+      "justification": "Mantêm o glossário de definições técnicas (como TFF, TFI e Licença), embora a Resolução 255 tenha sofrido atualizações posteriores em algumas definições por normas subsequentes [3, 4]."
+    },
+    {
+      "from": "199/1999_Art.4",
+      "to": "255/2001_Art.4",
+      "similarity": "100%",
+      "justification": "Dispositivo idêntico estabelecendo que as taxas do Fistel são constituídas pela TFI (Instalação) e TFF (Funcionamento) [5, 6]."
+    },
+    {
+      "from": "199/1999_Art.5",
+      "to": "255/2001_Art.5",
+      "similarity": "100%",
+      "justification": "Ambos definem que a TFI é devida no momento da emissão do certificado de licença para o funcionamento das estações [5, 6]."
+    },
+    {
+      "from": "199/1999_Art.10",
+      "to": "255/2001_Art.10",
+      "similarity": "100%",
+      "justification": "Regra idêntica estabelecendo que o valor da TFF corresponde a 50% dos valores fixados para a TFI [6, 7]."
+    },
+    {
+      "from": "199/1999_Art.11",
+      "to": "255/2001_Art.11",
+      "similarity": "100%",
+      "justification": "Mantém o prazo de pagamento anual da TFF até o dia 31 de março de cada exercício [6, 7]."
+    },
+    {
+      "from": "199/1999_Art.24",
+      "to": "255/2001_Art.24",
+      "similarity": "100%",
+      "justification": "Padronização das regras de cobrança de multa (0,33% ao dia) e juros de mora (SELIC) para débitos em atraso [8, 9]."
+    },
+    {
+      "from": "199/1999_Art.27",
+      "to": "255/2001_Art.27",
+      "similarity": "100%",
+      "justification": "Estabelecem que a arrecadação deve ocorrer exclusivamente pela rede bancária mediante documento próprio da Anatel [9, 10]."
+    },
+    {
+      "from": "199/1999_Art.31",
+      "to": "255/2001_Art.31",
+      "similarity": "100%",
+      "justification": "Lista idêntica de isenções das taxas do Fistel para órgãos como Forças Armadas, Polícia Federal e a própria Anatel [10, 11]."
+    },
+    {
+      "from": "199/1999_Anexo_I",
+      "to": "255/2001_Anexo_I",
+      "similarity": "100%",
+      "justification": "O modelo visual e os campos do Documento de Arrecadação de Receitas do Fistel permanecem rigorosamente os mesmos [12, 13]."
+    },
+    {
+      "from": "199/1999_Anexo_II",
+      "to": "255/2001_Anexo_II",
+      "similarity": "100%",
+      "justification": "A tabela de valores da TFI por estação para os diversos serviços de telecomunicações é idêntica em ambas as normas [14, 15]."
+    }
+  ]
+}

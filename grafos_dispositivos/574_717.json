@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    "574/2011_Art.1",
+    "574/2011_Art.17",
+    "574/2011_Art.18",
+    "574/2011_Art.19",
+    "574/2011_Art.20",
+    "574/2011_Art.21",
+    "574/2011_Art.23",
+    "574/2011_Art.33",
+    "574/2011_Art.39",
+    "717/2019_Anexo_I_Art.1",
+    "717/2019_Anexo_I_Art.14",
+    "717/2019_Anexo_I_Art.16",
+    "717/2019_Anexo_I_Tab1_IND4",
+    "717/2019_Anexo_I_Tab1_IND5",
+    "717/2019_Anexo_I_Tab1_IND6",
+    "717/2019_Anexo_I_Tab1_IND7",
+    "717/2019_Anexo_I_Tab1_IND8",
+    "717/2019_Anexo_I_Tab1_IND9"
+  ],
+  "edges": [
+    {
+      "from": "574/2011_Art.1",
+      "to": "717/2019_Anexo_I_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos definem o objetivo de estabelecer mecanismos de gestão da qualidade, embora a norma de 2019 unifique todos os serviços de telecomunicações [2, 5]."
+    },
+    {
+      "from": "574/2011_Art.17",
+      "to": "717/2019_Anexo_I_Tab1_IND4",
+      "similarity": "100%",
+      "justification": "Mapeamento direto do indicador de garantia de velocidade média/instantânea de download e upload [4, 6]."
+    },
+    {
+      "from": "574/2011_Art.18",
+      "to": "717/2019_Anexo_I_Tab1_IND5",
+      "similarity": "100%",
+      "justification": "Preservação semântica do indicador de Latência Bidirecional para conexão de dados [4, 6]."
+    },
+    {
+      "from": "574/2011_Art.19",
+      "to": "717/2019_Anexo_I_Tab1_IND6",
+      "similarity": "100%",
+      "justification": "Manutenção do indicador de Variação de Latência (Jitter) na rede de dados [4, 7]."
+    },
+    {
+      "from": "574/2011_Art.20",
+      "to": "717/2019_Anexo_I_Tab1_IND7",
+      "similarity": "100%",
+      "justification": "Equivalência direta do indicador de Taxa de Perda de Pacotes [4, 8]."
+    },
+    {
+      "from": "574/2011_Art.21",
+      "to": "717/2019_Anexo_I_Tab1_IND8",
+      "similarity": "100%",
+      "justification": "Consolidação do indicador de Disponibilidade do serviço [4, 8]."
+    },
+    {
+      "from": "574/2011_Art.23",
+      "to": "717/2019_Anexo_I_Tab1_IND9",
+      "similarity": "100%",
+      "justification": "Agrupamento das metas de cumprimento de prazo de instalação e reparo em um único indicador de relacionamento [4, 9]."
+    },
+    {
+      "from": "574/2011_Art.33",
+      "to": "717/2019_Anexo_I_Art.16",
+      "similarity": "100%",
+      "justification": "Transição da Entidade Aferidora da Qualidade para a Entidade de Suporte à Aferição da Qualidade (ESAQ) [10, 11]."
+    },
+    {
+      "from": "574/2011_Art.39",
+      "to": "717/2019_Anexo_I_Art.14",
+      "similarity": "100%",
+      "justification": "Migração das competências do Grupo de Implantação (GIPAQ) para o Grupo Técnico da Qualidade (GTQUAL) [12, 13]."
+    }
+  ]
+}

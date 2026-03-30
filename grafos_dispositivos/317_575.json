@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    "317/2002_Anexo_Art.1",
+    "317/2002_Art.2,V",
+    "317/2002_Art.2,VI",
+    "317/2002_Art.2,XIV",
+    "317/2002_Art.6",
+    "317/2002_Art.7",
+    "317/2002_Art.8",
+    "317/2002_Art.10",
+    "317/2002_Art.11",
+    "317/2002_Art.13",
+    "317/2002_Art.18",
+    "317/2002_Art.19",
+    "575/2011_Anexo_I_Art.1",
+    "575/2011_Art.3,V",
+    "575/2011_Art.3,VI",
+    "575/2011_Art.3,XX",
+    "575/2011_Art.15",
+    "575/2011_Art.16",
+    "575/2011_Art.19",
+    "575/2011_Art.31",
+    "575/2011_Art.32",
+    "575/2011_Art.33",
+    "575/2011_Art.53",
+    "575/2011_Art.54"
+  ],
+  "edges": [
+    {
+      "from": "317/2002_Anexo_Art.1",
+      "to": "575/2011_Anexo_I_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos estabelecem as metas de qualidade para o Serviço Móvel Pessoal (SMP), embora a norma de 2011 amplie os critérios para obtenção de dados e acompanhamento [2, 3]."
+    },
+    {
+      "from": "317/2002_Art.2,V",
+      "to": "575/2011_Art.3,V",
+      "similarity": "100%",
+      "justification": "Definição idêntica de 'Chamada Estabelecida' como ligação efetuada entre a Estação Móvel e outra estação [3, 4]."
+    },
+    {
+      "from": "317/2002_Art.2,VI",
+      "to": "575/2011_Art.3,VI",
+      "similarity": "100%",
+      "justification": "Definição idêntica de 'Chamada Completada' como chamada estabelecida onde houve atendimento e comunicação [3, 4]."
+    },
+    {
+      "from": "317/2002_Art.2,XIV",
+      "to": "575/2011_Art.3,XX",
+      "similarity": "100%",
+      "justification": "Manutenção do conceito de 'Sistema de Autoatendimento' (ou Unidade de Resposta Audível - URA) para interação direta com o usuário [4, 5]."
+    },
+    {
+      "from": "317/2002_Art.6",
+      "to": "575/2011_Art.15",
+      "similarity": "90%",
+      "justification": "Ambos regulam o completamento de chamadas para Centros de Atendimento, embora o limite mínimo tenha sido alterado de 98% para 95% (indicador SMP3) [6, 7]."
+    },
+    {
+      "from": "317/2002_Art.7",
+      "to": "575/2011_Art.31",
+      "similarity": "80%",
+      "justification": "Tratam do tempo para atendimento por telefonista em sistemas automáticos. O prazo aumentou de 10s (em 95% dos casos) para 20s (em 90% dos casos - SMP12) [6, 8]."
+    },
+    {
+      "from": "317/2002_Art.8",
+      "to": "575/2011_Art.16",
+      "similarity": "100%",
+      "justification": "Manutenção do percentual mínimo de 67% para o completamento de tentativas de originar chamadas (SMP4) [6, 9]."
+    },
+    {
+      "from": "317/2002_Art.10",
+      "to": "575/2011_Art.19",
+      "similarity": "100%",
+      "justification": "Manutenção da meta de que a taxa de chamadas interrompidas por queda de ligação deve ser inferior a 2% (SMP7) [6, 10]."
+    },
+    {
+      "from": "317/2002_Art.11",
+      "to": "575/2011_Art.32",
+      "similarity": "100%",
+      "justification": "Preservação do prazo de 5 dias úteis para resposta a solicitações ou pedidos de informação em 95% dos casos (SMP13) [11, 12]."
+    },
+    {
+      "from": "317/2002_Art.13",
+      "to": "575/2011_Art.33",
+      "similarity": "85%",
+      "justification": "Ambos regulam o tempo de espera no atendimento presencial, mas o limite foi ampliado de 10 minutos para 30 minutos (SMP14) [11, 13]."
+    },
+    {
+      "from": "317/2002_Art.18",
+      "to": "575/2011_Art.53",
+      "similarity": "100%",
+      "justification": "Dispositivos idênticos prevendo sanções cabíveis pelo descumprimento das metas de qualidade estabelecidas [11, 14]."
+    },
+    {
+      "from": "317/2002_Art.19",
+      "to": "575/2011_Art.54",
+      "similarity": "100%",
+      "justification": "Mantêm as formas de fiscalização: acompanhamento de indicadores, auditorias e pesquisas de satisfação junto aos usuários [11, 14]."
+    }
+  ]
+}

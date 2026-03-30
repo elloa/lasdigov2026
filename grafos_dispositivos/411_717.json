@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    "411/2005_Art.1",
+    "411/2005_Art.8",
+    "411/2005_Art.9",
+    "411/2005_Art.14",
+    "411/2005_Art.16",
+    "411/2005_Art.17",
+    "411/2005_Art.18",
+    "411/2005_Art.20",
+    "717/2019_Art.1",
+    "717/2019_Art.10,§2º",
+    "717/2019_Art.22",
+    "717/2019_Anexo_I_IND8",
+    "717/2019_Anexo_I_IND9",
+    "717/2019_Anexo_I_INF2",
+    "717/2019_Anexo_I_Tabela_3_IR"
+  ],
+  "edges": [
+    {
+      "from": "411/2005_Art.1",
+      "to": "717/2019_Art.1",
+      "similarity": "95%",
+      "justification": "Ambos estabelecem o objetivo de disciplinar a gestão da qualidade na prestação dos serviços, com a norma de 2019 unificando a TV por assinatura aos demais serviços de telecomunicações [2, 5]."
+    },
+    {
+      "from": "411/2005_Art.8",
+      "to": "717/2019_Anexo_I_Tabela_3_IR",
+      "similarity": "100%",
+      "justification": "O Índice de Reclamação do Serviço (IRS) da TV por assinatura foi substituído pelo Índice de Reclamações na Anatel (IR), que mede a relação entre queixas e base de usuários [6, 7]."
+    },
+    {
+      "from": "411/2005_Art.9",
+      "to": "717/2019_Anexo_I_IND9",
+      "similarity": "100%",
+      "justification": "O indicador de cumprimento de prazo para solicitações de instalação migrou para o indicador unificado de Cumprimento de Prazo de instalação e reparo [6, 8]."
+    },
+    {
+      "from": "411/2005_Art.14",
+      "to": "717/2019_Anexo_I_INF2",
+      "similarity": "90%",
+      "justification": "As metas de tempo de espera para atendimento por telefonista em sistemas de autoatendimento evoluíram para o indicador informativo de Tempo Médio de Espera para Atendimento [8, 9]."
+    },
+    {
+      "from": "411/2005_Art.16",
+      "to": "717/2019_Anexo_I_IND8",
+      "similarity": "100%",
+      "justification": "As obrigações relativas à solução de interrupções de serviço foram consolidadas no indicador de Disponibilidade, que mede o tempo que o serviço permanece em operação para os usuários [8, 10]."
+    },
+    {
+      "from": "411/2005_Art.17",
+      "to": "717/2019_Anexo_I_IND9",
+      "similarity": "100%",
+      "justification": "As metas para atendimento de solicitações de reparos por falhas técnicas também foram integradas ao indicador de Cumprimento de Prazo do grupo de relacionamento [8, 10]."
+    },
+    {
+      "from": "411/2005_Art.18",
+      "to": "717/2019_Art.10,§2º",
+      "similarity": "90%",
+      "justification": "O prazo para envio de dados de qualidade à Anatel foi antecipado do dia 15 para o dia 10 do mês subsequente ao da coleta [10, 11]."
+    },
+    {
+      "from": "411/2005_Art.20",
+      "to": "717/2019_Art.22",
+      "similarity": "90%",
+      "justification": "O período de obrigatoriedade de guarda dos dados primários e registros de atendimento foi ampliado de 24 meses para o mínimo de 3 anos (36 meses) [12, 13]."
+    }
+  ]
+}
